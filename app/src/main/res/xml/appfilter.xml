@@ -59,5 +59,31 @@
  	<calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar2_" />
 	<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar2_" />
  	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" prefix="calendar2_" />
+
+
+	<!--___________________________谷歌___________________________-->
+
+	<!-- Google -->
+	<item drawable="google" component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" />
+
+	<!-- Google Go -->
+	<item drawable="google_go" component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" />
+
+	<!--___________________________一加___________________________-->
+
+	<!-- 设置 -->
+	<item drawable="settings" component="ComponentInfo{com.android.settings/com.android.settings.Settings}" />
+
+	<!-- 一加电话 -->
+	<item drawable="oneplus_phone" component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" />
+
+	<!-- 一加短信 -->
+	<item drawable="oneplus_message" component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" />
+
+	<!--___________________________其它___________________________-->
+
+
+	<!--___________________________游戏___________________________-->
+
  	
 </resources>

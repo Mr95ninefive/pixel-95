@@ -2,28 +2,17 @@
 <resources>
     <version>1</version>
 
-    <category title="Newly Added" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+    <category title="谷歌" />
+    <item drawable="google" />
+    <item drawable="google_go" />
 
-    <category title="Apps" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+    <category title="一加" />
+    <item drawable="settings" />
+    <item drawable="oneplus_phone" />
+    <item drawable="oneplus_message" />
 
-    <category title="Games" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+    <category title="其它" />
+
+    <category title="游戏" />
 
 </resources>

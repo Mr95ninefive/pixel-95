@@ -2,11 +2,36 @@
 <appmap>
 
     <!-- FOR ATOM LAUNCHER -->
-    
+
     <!-- Chrome & Chrome Beta -->
     <item class="com.google.android.apps.chrome.Main" name="chrome" />
-    
+
     <!--  Antutu Benchmark -->
     <item class="com.antutu.ABenchMark.ABenchMarkStart" name="antutu_benchmark" />
-    
+
+    <!--___________________________谷歌___________________________-->
+
+    <!-- Google -->
+    <item name="google" class="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"/>
+
+    <!-- Google Go -->
+    <item name="google_go" class="com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity"/>
+
+    <!--___________________________一加___________________________-->
+
+    <!-- 设置 -->
+    <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
+
+    <!-- 一加电话 -->
+    <item name="oneplus_phone" class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"/>
+
+    <!-- 一加短信 -->
+    <item name="oneplus_message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
+
+
+    <!--___________________________其它___________________________-->
+
+
+    <!--___________________________游戏___________________________-->
+
 </appmap>
