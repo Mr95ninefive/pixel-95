@@ -20,6 +20,9 @@
     <!-- Play商店 -->
     <item name="google_play_store" class="com.android.vending/com.android.vending.AssetBrowserActivity"/>
 
+    <!-- Gmail -->
+    <item name="google_gmail" class="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"/>
+
     <!--___________________________一加___________________________-->
 
     <!-- 设置 -->
@@ -30,6 +33,12 @@
 
     <!-- 一加短信 -->
     <item name="oneplus_message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
+
+    <!-- 一加社区国际版 -->
+    <item name="oneplus_community" class="net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"/>
+
+    <!-- 一加社区国内版 -->
+    <item name="oneplus_community" class="com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity"/>
 
 
     <!--___________________________应用___________________________-->
@@ -54,6 +63,27 @@
 
     <!-- TIM -->
     <item name="tim" class="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"/>
+
+    <!-- 简约图库Pro -->
+    <item name="gallery" class="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"/>
+
+    <!-- 今日头条 -->
+    <item name="news" class="com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity"/>
+
+    <!-- 今日头条 -->
+    <item name="reddit" class="com.reddit.frontpage/com.reddit.frontpage.StartActivity"/>
+
+    <!-- 微博国际版 -->
+    <item name="weibo_intl" class="com.weico.international/com.weico.international.activity.LogoActivity"/>
+
+    <!-- IT之家 -->
+    <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
+
+    <!-- XDA Labs -->
+    <item name="xda_labs" class="com.xda.labs/com.xda.labs.LabsLauncher"/>
+
+    <!-- App Sales -->
+    <item name="app_sales" class="net.tsapps.appsales/net.tsapps.appsales.MainActivity"/>
 
 
     <!--___________________________游戏___________________________-->

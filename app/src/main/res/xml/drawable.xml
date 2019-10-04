@@ -6,20 +6,29 @@
     <item drawable="google" />
     <item drawable="google_go" />
     <item drawable="google_play_store" />
+    <item drawable="google_gmail" />
 
     <category title="一加" />
     <item drawable="settings" />
     <item drawable="oneplus_phone" />
     <item drawable="oneplus_message" />
+    <item drawable="oneplus_community" />
 
     <category title="应用" />
     <item drawable="ding_talk" />
     <item drawable="alipay" />
+    <item drawable="gallery" />
     <item drawable="twitter" />
     <item drawable="coolapk" />
     <item drawable="telegram_x" />
     <item drawable="wechat" />
     <item drawable="tim" />
+    <item drawable="news" />
+    <item drawable="reddit" />
+    <item drawable="weibo_intl" />
+    <item drawable="it_home" />
+    <item drawable="xda_labs" />
+    <item drawable="app_sales" />
 
     <category title="游戏" />
 
