@@ -17,6 +17,9 @@
     <!-- Google Go -->
     <item name="google_go" class="com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity"/>
 
+    <!-- Play商店 -->
+    <item name="google_play_store" class="com.android.vending/com.android.vending.AssetBrowserActivity"/>
+
     <!--___________________________一加___________________________-->
 
     <!-- 设置 -->
@@ -29,7 +32,28 @@
     <item name="oneplus_message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
 
 
-    <!--___________________________其它___________________________-->
+    <!--___________________________应用___________________________-->
+
+    <!-- 钉钉 -->
+    <item name="ding_talk" class="com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity"/>
+
+    <!-- 支付宝 -->
+    <item name="alipay" class="com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin"/>
+
+    <!-- twitter -->
+    <item name="twitter" class="com.twitter.android/com.twitter.android.StartActivity"/>
+
+    <!-- 酷安 -->
+    <item name="coolapk" class="com.coolapk.market/com.coolapk.market.view.main.MainActivity"/>
+
+    <!-- TelegramX -->
+    <item name="telegram_x" class="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity"/>
+
+    <!-- 微信 -->
+    <item name="wechat" class="com.tencent.mm/com.tencent.mm.ui.LauncherUI"/>
+
+    <!-- TIM -->
+    <item name="tim" class="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"/>
 
 
     <!--___________________________游戏___________________________-->

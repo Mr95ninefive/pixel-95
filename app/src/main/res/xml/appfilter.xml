@@ -69,6 +69,9 @@
 	<!-- Google Go -->
 	<item drawable="google_go" component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" />
 
+	<!-- Play商店 -->
+	<item drawable="google_play_store" component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" />
+
 	<!--___________________________一加___________________________-->
 
 	<!-- 设置 -->
@@ -80,7 +83,28 @@
 	<!-- 一加短信 -->
 	<item drawable="oneplus_message" component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" />
 
-	<!--___________________________其它___________________________-->
+	<!--___________________________应用___________________________-->
+
+	<!-- 钉钉 -->
+	<item drawable="ding_talk" component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" />
+
+	<!-- 支付宝 -->
+	<item drawable="alipay" component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" />
+
+	<!-- twitter -->
+	<item drawable="twitter" component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" />
+
+	<!-- 酷安 -->
+	<item drawable="coolapk" component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" />
+
+	<!-- TelegramX -->
+	<item drawable="telegram_x" component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" />
+
+	<!-- 微信 -->
+	<item drawable="wechat" component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" />
+
+	<!-- TIM -->
+	<item drawable="tim" component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" />
 
 
 	<!--___________________________游戏___________________________-->
