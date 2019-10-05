@@ -185,13 +185,19 @@
 	<item drawable="caller_info" component="ComponentInfo{org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity}" />
 
 	<!-- RE管理器 -->
-	<item drawable="root_explorer" component="ComponentInfo{org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity}" />
+	<item drawable="root_explorer" component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" />
 
 	<!-- 一加天气 -->
 	<item drawable="weather" component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" />
 
 	<!-- 一加录音 -->
 	<item drawable="recorder" component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" />
+
+	<!-- 谷歌翻译 -->
+	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
+
+	<!-- HiPER Calc Pro -->
+	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
 
 
 	<!--___________________________游戏___________________________-->

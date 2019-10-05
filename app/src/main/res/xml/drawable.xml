@@ -48,6 +48,8 @@
     <item drawable="root_explorer" />
     <item drawable="weather" />
     <item drawable="recorder" />
+    <item drawable="google_translate" />
+    <item drawable="calculator" />
 
     <category title="游戏" />
 

@@ -134,13 +134,19 @@
     <item name="caller_info" class="org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity"/>
 
     <!-- RE管理器 -->
-    <item name="root_explorer" class="org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity"/>
+    <item name="root_explorer" class="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer"/>
 
     <!-- 一加天气 -->
     <item name="weather" class="net.oneplus.weather/net.oneplus.weather.app.MainActivity"/>
 
     <!-- 一加录音 -->
     <item name="recorder" class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"/>
+
+    <!-- 谷歌翻译 -->
+    <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
+
+    <!-- HiPER Calc Pro -->
+    <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>
 
 
     <!--___________________________游戏___________________________-->
