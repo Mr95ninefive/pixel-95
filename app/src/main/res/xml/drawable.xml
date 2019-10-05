@@ -7,12 +7,18 @@
     <item drawable="google_go" />
     <item drawable="google_play_store" />
     <item drawable="google_gmail" />
+    <item drawable="google_youtube" />
+    <item drawable="google_drive" />
+    <item drawable="google_calendar" />
 
-    <category title="一加" />
+    <category title="系统" />
     <item drawable="settings" />
-    <item drawable="oneplus_phone" />
-    <item drawable="oneplus_message" />
-    <item drawable="oneplus_community" />
+    <item drawable="phone" />
+    <item drawable="message" />
+    <item drawable="contacts" />
+    <item drawable="magisk" />
+    <item drawable="files" />
+    <item drawable="oneplus_game_space" />
 
     <category title="应用" />
     <item drawable="ding_talk" />
@@ -26,9 +32,22 @@
     <item drawable="news" />
     <item drawable="reddit" />
     <item drawable="weibo_intl" />
+    <item drawable="oneplus_community" />
     <item drawable="it_home" />
     <item drawable="xda_labs" />
     <item drawable="app_sales" />
+    <item drawable="da_sheng_jing_hua" />
+    <item drawable="app_ops" />
+    <item drawable="brevent" />
+    <item drawable="netease_music" />
+    <item drawable="ice_box" />
+    <item drawable="floating_menu" />
+    <item drawable="clock" />
+    <item drawable="wear_os" />
+    <item drawable="caller_info" />
+    <item drawable="root_explorer" />
+    <item drawable="weather" />
+    <item drawable="recorder" />
 
     <category title="游戏" />
 

@@ -75,22 +75,34 @@
 	<!-- Gmail -->
 	<item drawable="google_gmail" component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" />
 
-	<!--___________________________一加___________________________-->
+	<!-- YouTube -->
+	<item drawable="google_youtube" component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" />
+
+	<!-- 谷歌日历 -->
+	<item drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity}" />
+
+	<!--___________________________系统___________________________-->
 
 	<!-- 设置 -->
 	<item drawable="settings" component="ComponentInfo{com.android.settings/com.android.settings.Settings}" />
 
 	<!-- 一加电话 -->
-	<item drawable="oneplus_phone" component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" />
+	<item drawable="phone" component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" />
 
 	<!-- 一加短信 -->
-	<item drawable="oneplus_message" component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" />
+	<item drawable="message" component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" />
 
-	<!-- 一加社区国际版 -->
-	<item drawable="oneplus_community" component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" />
+	<!-- 一加通讯录 -->
+	<item drawable="contacts" component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" />
 
-	<!-- 一加社区国内版 -->
-	<item drawable="oneplus_community" component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" />
+	<!-- magisk -->
+	<item drawable="magisk" component="ComponentInfo{com.topjohnwu.magisk/a.c}" />
+
+	<!-- 文件 -->
+	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
+
+	<!-- 一加游戏空间 -->
+	<item drawable="oneplus_game_space" component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" />
 
 	<!--___________________________应用___________________________-->
 
@@ -127,6 +139,12 @@
 	<!-- 微博国际版 -->
 	<item drawable="weibo_intl" component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" />
 
+	<!-- 一加社区国际版 -->
+	<item drawable="oneplus_community" component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" />
+
+	<!-- 一加社区国内版 -->
+	<item drawable="oneplus_community" component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" />
+
 	<!-- IT之家 -->
 	<item drawable="it_home" component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" />
 
@@ -135,6 +153,45 @@
 
 	<!-- App Sales -->
 	<item drawable="app_sales" component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" />
+
+	<!-- 大圣净化 -->
+	<item drawable="da_sheng_jing_hua" component="ComponentInfo{com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide}" />
+
+	<!-- App Ops -->
+	<item drawable="app_ops" component="ComponentInfo{rikka.appops/rikka.appops.SplashActivity}" />
+
+	<!-- 黑阈 -->
+	<item drawable="brevent" component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" />
+
+	<!-- 网易云音乐 -->
+	<item drawable="netease_music" component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" />
+
+	<!-- 冰箱 -->
+	<item drawable="ice_box" component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity}" />
+
+	<!-- 悬浮菜单 -->
+	<item drawable="floating_menu" component="ComponentInfo{com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity}" />
+
+	<!-- Google云端硬盘 -->
+	<item drawable="google_drive" component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" />
+
+	<!-- clock -->
+	<item drawable="clock" component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" />
+
+	<!-- WearOS -->
+	<item drawable="wear_os" component="ComponentInfo{com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity}" />
+
+	<!-- 来电信息 -->
+	<item drawable="caller_info" component="ComponentInfo{org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity}" />
+
+	<!-- RE管理器 -->
+	<item drawable="root_explorer" component="ComponentInfo{org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity}" />
+
+	<!-- 一加天气 -->
+	<item drawable="weather" component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" />
+
+	<!-- 一加录音 -->
+	<item drawable="recorder" component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" />
 
 
 	<!--___________________________游戏___________________________-->

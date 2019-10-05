@@ -23,22 +23,34 @@
     <!-- Gmail -->
     <item name="google_gmail" class="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"/>
 
-    <!--___________________________一加___________________________-->
+    <!-- YouTube -->
+    <item name="google_youtube" class="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"/>
+
+    <!-- 谷歌日历 -->
+    <item name="google_calendar" class="com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity"/>
+
+    <!--___________________________系统___________________________-->
 
     <!-- 设置 -->
     <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
 
     <!-- 一加电话 -->
-    <item name="oneplus_phone" class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"/>
+    <item name="phone" class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"/>
 
     <!-- 一加短信 -->
-    <item name="oneplus_message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
+    <item name="message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
 
-    <!-- 一加社区国际版 -->
-    <item name="oneplus_community" class="net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"/>
+    <!-- 一加通讯录 -->
+    <item name="contacts" class="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"/>
 
-    <!-- 一加社区国内版 -->
-    <item name="oneplus_community" class="com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity"/>
+    <!-- magisk -->
+    <item name="magisk" class="com.topjohnwu.magisk/a.c"/>
+
+    <!-- 文件 -->
+    <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
+
+    <!-- 一加游戏空间 -->
+    <item name="oneplus_game_space" class="com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity"/>
 
 
     <!--___________________________应用___________________________-->
@@ -79,11 +91,56 @@
     <!-- IT之家 -->
     <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
 
+    <!-- 一加社区国际版 -->
+    <item name="oneplus_community" class="net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"/>
+
+    <!-- 一加社区国内版 -->
+    <item name="oneplus_community" class="com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity"/>
+
     <!-- XDA Labs -->
     <item name="xda_labs" class="com.xda.labs/com.xda.labs.LabsLauncher"/>
 
     <!-- App Sales -->
     <item name="app_sales" class="net.tsapps.appsales/net.tsapps.appsales.MainActivity"/>
+
+    <!-- 大圣净化 -->
+    <item name="da_sheng_jing_hua" class="com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide"/>
+
+    <!-- App Ops -->
+    <item name="app_ops" class="rikka.appops/rikka.appops.SplashActivity"/>
+
+    <!-- 黑阈 -->
+    <item name="brevent" class="me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity"/>
+
+    <!-- 网易云音乐 -->
+    <item name="netease_music" class="com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity"/>
+
+    <!-- 冰箱 -->
+    <item name="ice_box" class="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity"/>
+
+    <!-- 悬浮菜单 -->
+    <item name="floating_menu" class="com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity"/>
+
+    <!-- Google云端硬盘 -->
+    <item name="google_drive" class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"/>
+
+    <!-- clock -->
+    <item name="clock" class="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock"/>
+
+    <!-- WearOS -->
+    <item name="wear_os" class="com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity"/>
+
+    <!-- 来电信息 -->
+    <item name="caller_info" class="org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity"/>
+
+    <!-- RE管理器 -->
+    <item name="root_explorer" class="org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity"/>
+
+    <!-- 一加天气 -->
+    <item name="weather" class="net.oneplus.weather/net.oneplus.weather.app.MainActivity"/>
+
+    <!-- 一加录音 -->
+    <item name="recorder" class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"/>
 
 
     <!--___________________________游戏___________________________-->
