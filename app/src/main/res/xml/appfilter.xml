@@ -81,6 +81,9 @@
 	<!-- 谷歌日历 -->
 	<item drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity}" />
 
+	<!-- Chrome Dev -->
+	<item drawable="chrome" component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" />
+
 	<!--___________________________系统___________________________-->
 
 	<!-- 设置 -->
@@ -100,6 +103,9 @@
 
 	<!-- 文件 -->
 	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
+
+	<!-- 一加相机 -->
+	<item drawable="camera" component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" />
 
 	<!-- 一加游戏空间 -->
 	<item drawable="oneplus_game_space" component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" />
@@ -198,6 +204,21 @@
 
 	<!-- HiPER Calc Pro -->
 	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
+
+	<!-- Surfboard -->
+	<item drawable="surfboard" component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}" />
+
+	<!-- 一加便签 -->
+	<item drawable="oneplus_notes" component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" />
+
+	<!-- 有道云笔记 -->
+	<item drawable="youdao_note" component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" />
+
+	<!-- 百度地图 -->
+	<item drawable="baidu_map" component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" />
+
+	<!-- 车来了 -->
+	<item drawable="che_lai_le" component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}" />
 
 
 	<!--___________________________游戏___________________________-->

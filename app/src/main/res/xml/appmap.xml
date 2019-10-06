@@ -29,6 +29,9 @@
     <!-- 谷歌日历 -->
     <item name="google_calendar" class="com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity"/>
 
+    <!-- Chrome Dev -->
+    <item name="chrome" class="com.chrome.dev/com.google.android.apps.chrome.Main"/>
+
     <!--___________________________系统___________________________-->
 
     <!-- 设置 -->
@@ -48,6 +51,9 @@
 
     <!-- 文件 -->
     <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
+
+    <!-- 一加相机 -->
+    <item name="camera" class="com.oneplus.camera/com.oneplus.camera.OPCameraActivity"/>
 
     <!-- 一加游戏空间 -->
     <item name="oneplus_game_space" class="com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity"/>
@@ -147,6 +153,21 @@
 
     <!-- HiPER Calc Pro -->
     <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>
+
+    <!-- Surfboard -->
+    <item name="surfboard" class="com.getsurfboard/com.getsurfboard.activity.MainActivity"/>
+
+    <!-- 一加便签 -->
+    <item name="oneplus_notes" class="com.oneplus.note/com.oneplus.note.ui.MainActivity"/>
+
+    <!-- 有道云笔记 -->
+    <item name="youdao_note" class="com.youdao.note/com.youdao.note.activity2.SplashActivity"/>
+
+    <!-- 百度地图 -->
+    <item name="baidu_map" class="com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen"/>
+
+    <!-- 车来了 -->
+    <item name="che_lai_le" class="com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity"/>
 
 
     <!--___________________________游戏___________________________-->

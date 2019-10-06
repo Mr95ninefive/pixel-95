@@ -10,6 +10,7 @@
     <item drawable="google_youtube" />
     <item drawable="google_drive" />
     <item drawable="google_calendar" />
+    <item drawable="chrome" />
 
     <category title="系统" />
     <item drawable="settings" />
@@ -18,6 +19,7 @@
     <item drawable="contacts" />
     <item drawable="magisk" />
     <item drawable="files" />
+    <item drawable="camera" />
     <item drawable="oneplus_game_space" />
 
     <category title="应用" />
@@ -50,6 +52,11 @@
     <item drawable="recorder" />
     <item drawable="google_translate" />
     <item drawable="calculator" />
+    <item drawable="surfboard" />
+    <item drawable="oneplus_notes" />
+    <item drawable="youdao_note" />
+    <item drawable="baidu_map" />
+    <item drawable="che_lai_le" />
 
     <category title="游戏" />
 
