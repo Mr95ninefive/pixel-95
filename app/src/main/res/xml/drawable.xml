@@ -11,6 +11,7 @@
     <item drawable="google_drive" />
     <item drawable="google_calendar" />
     <item drawable="chrome" />
+    <item drawable="google_play_games" />
 
     <category title="系统" />
     <item drawable="settings" />
@@ -23,6 +24,7 @@
     <item drawable="oneplus_game_space" />
 
     <category title="应用" />
+    <item drawable="pixel_95" />
     <item drawable="ding_talk" />
     <item drawable="alipay" />
     <item drawable="gallery" />
@@ -57,7 +59,24 @@
     <item drawable="youdao_note" />
     <item drawable="baidu_map" />
     <item drawable="che_lai_le" />
+    <item drawable="oneplus_switch" />
+    <item drawable="fantasy_wear" />
+    <item drawable="wps_office" />
+    <item drawable="your_phone_companion" />
+    <item drawable="search_lite" />
+    <item drawable="foo_view" />
+    <item drawable="my_android_tools" />
+    <item drawable="huawei_health" />
 
     <category title="游戏" />
+    <item drawable="minecraft" />
+    <item drawable="angrybird_evolution" />
+    <item drawable="shadow_fight_3" />
+    <item drawable="hustle_castle" />
+    <item drawable="asphalt_9" />
+    <item drawable="night_of_the_full_moon" />
+    <item drawable="reigns" />
+    <item drawable="reigns_her_majesty" />
+    <item drawable="angrybird_friends" />
 
 </resources>

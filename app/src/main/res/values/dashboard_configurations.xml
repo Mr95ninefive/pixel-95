@@ -26,7 +26,7 @@
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">CandyBar</string>
+    <string name="home_title">pixel 95 自用图标包</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -73,7 +73,7 @@
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title">pixel 95</string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
@@ -187,7 +187,7 @@
     <string name="about_profile_image">https://lh3.googleusercontent.com/-KBI2HdgNtN0/AAAAAAAAAAI/AAAAAAAABpc/icnuAgrjOT4/s256-p-rw-no/photo.jpg</string>
 
     <!-- About title above description -->
-    <string name="about_title">CandyBar \nMaterial Dashboard</string>
+    <string name="about_title">pixel 95 \n自用图标包</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[

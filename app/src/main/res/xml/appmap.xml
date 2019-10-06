@@ -32,7 +32,16 @@
     <!-- Chrome Dev -->
     <item name="chrome" class="com.chrome.dev/com.google.android.apps.chrome.Main"/>
 
+    <!-- Chrome -->
+    <item name="chrome" class="com.android.chrome/com.google.android.apps.chrome.Main"/>
+
+    <!-- Play游戏 -->
+    <item name="google_play_games" class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"/>
+
     <!--___________________________系统___________________________-->
+
+    <!-- app图标 -->
+    <item name="pixel_95" class="com.material.dashboard.candybar.ninefive/com.material.dashboard.candybar.ninefive.activities.SplashActivity"/>
 
     <!-- 设置 -->
     <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
@@ -51,6 +60,9 @@
 
     <!-- 文件 -->
     <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
+
+    <!-- 一加文件管理 -->
+    <item name="files" class="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity"/>
 
     <!-- 一加相机 -->
     <item name="camera" class="com.oneplus.camera/com.oneplus.camera.OPCameraActivity"/>
@@ -81,6 +93,9 @@
 
     <!-- TIM -->
     <item name="tim" class="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"/>
+
+    <!-- 一加图库 -->
+    <item name="gallery" class="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"/>
 
     <!-- 简约图库Pro -->
     <item name="gallery" class="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"/>
@@ -151,6 +166,9 @@
     <!-- 谷歌翻译 -->
     <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
 
+    <!-- 一加计算器 -->
+    <item name="calculator" class="com.oneplus.calculator/com.oneplus.calculator.Calculator"/>
+
     <!-- HiPER Calc Pro -->
     <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>
 
@@ -169,7 +187,58 @@
     <!-- 车来了 -->
     <item name="che_lai_le" class="com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity"/>
 
+    <!-- 一加搬家 -->
+    <item name="oneplus_switch" class="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"/>
+
+    <!-- 梦幻表盘 -->
+    <item name="fantasy_wear" class="com.wear.fantasy/com.wear.fantasy.app.ui.StartActivity"/>
+
+    <!-- WPS Office -->
+    <item name="wps_office" class="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity"/>
+
+    <!-- 你的手机助手 -->
+    <item name="your_phone_companion" class="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity"/>
+
+    <!-- 搜索Lite -->
+    <item name="search_lite" class="com.orekie.search/com.orekie.search.components.EntryActivity"/>
+
+    <!-- fooView -->
+    <item name="foo_view" class="com.fooview.android.fooview/com.fooview.android.fooview.MainActivity"/>
+
+    <!-- MyAndroidTools -->
+    <item name="my_android_tools" class="cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity"/>
+
+    <!-- 华为运动健康 -->
+    <item name="huawei_health" class="com.huawei.health/com.huawei.health.MainActivity"/>
+
 
     <!--___________________________游戏___________________________-->
+
+    <!-- minecraft -->
+    <item name="minecraft" class="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity"/>
+
+    <!-- 愤怒的小鸟：进化 -->
+    <item name="angrybird_evolution" class="com.rovio.tnt/de.chimeraentertainment.unity.UnityPlayerActivity"/>
+
+    <!-- 暗影格斗3 -->
+    <item name="shadow_fight_3" class="com.nekki.shadowfight3/com.nekki.unityplugins.NekkiNativeActivity"/>
+
+    <!-- 暗影格斗3 -->
+    <item name="hustle_castle" class="com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity"/>
+
+    <!-- 狂野飙车9 -->
+    <item name="asphalt_9" class="com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity"/>
+
+    <!-- 月圆之夜 -->
+    <item name="night_of_the_full_moon" class="com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch"/>
+
+    <!-- 王权 -->
+    <item name="reigns" class="com.devolver.reigns/com.devolver.reigns.UnityPlayerActivity"/>
+
+    <!-- 王权:女王陛下 -->
+    <item name="reigns_her_majesty" class="com.devolver.reigns2/com.devolver.reigns2.UnityPlayerActivity"/>
+
+    <!-- 愤怒的小鸟 -->
+    <item name="angrybird_friends" class="com.rovio.angrybirdsfriends/com.rovio.fusion.App"/>
 
 </appmap>

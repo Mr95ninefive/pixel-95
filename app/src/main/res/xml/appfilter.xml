@@ -84,6 +84,12 @@
 	<!-- Chrome Dev -->
 	<item drawable="chrome" component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" />
 
+	<!-- Chrome -->
+	<item drawable="chrome" component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" />
+
+	<!-- Play游戏 -->
+	<item drawable="google_play_games" component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" />
+
 	<!--___________________________系统___________________________-->
 
 	<!-- 设置 -->
@@ -104,6 +110,9 @@
 	<!-- 文件 -->
 	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
 
+	<!-- 一加文件管理 -->
+	<item drawable="files" component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" />
+
 	<!-- 一加相机 -->
 	<item drawable="camera" component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" />
 
@@ -111,6 +120,9 @@
 	<item drawable="oneplus_game_space" component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" />
 
 	<!--___________________________应用___________________________-->
+
+	<!-- app图标 -->
+	<item drawable="pixel_95" component="ComponentInfo{com.material.dashboard.candybar.ninefive/com.material.dashboard.candybar.ninefive.activities.SplashActivity}" />
 
 	<!-- 钉钉 -->
 	<item drawable="ding_talk" component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" />
@@ -132,6 +144,9 @@
 
 	<!-- TIM -->
 	<item drawable="tim" component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" />
+
+	<!-- 一加图库 -->
+	<item drawable="gallery" component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" />
 
 	<!-- 简约图库Pro -->
 	<item drawable="gallery" component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" />
@@ -202,6 +217,9 @@
 	<!-- 谷歌翻译 -->
 	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
 
+	<!-- 一加计算器 -->
+	<item drawable="calculator" component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" />
+
 	<!-- HiPER Calc Pro -->
 	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
 
@@ -220,8 +238,59 @@
 	<!-- 车来了 -->
 	<item drawable="che_lai_le" component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}" />
 
+	<!-- 一加搬家 -->
+	<item drawable="oneplus_switch" component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" />
+
+	<!-- 梦幻表盘 -->
+	<item drawable="fantasy_wear" component="ComponentInfo{com.wear.fantasy/com.wear.fantasy.app.ui.StartActivity}" />
+
+	<!-- WPS Office -->
+	<item drawable="wps_office" component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" />
+
+	<!-- 你的手机助手 -->
+	<item drawable="your_phone_companion" component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" />
+
+	<!-- 搜索Lite -->
+	<item drawable="search_lite" component="ComponentInfo{com.orekie.search/com.orekie.search.components.EntryActivity}" />
+
+	<!-- fooView -->
+	<item drawable="foo_view" component="ComponentInfo{com.fooview.android.fooview/com.fooview.android.fooview.MainActivity}" />
+
+	<!-- MyAndroidTools -->
+	<item drawable="my_android_tools" component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}" />
+
+	<!-- 华为运动健康 -->
+	<item drawable="huawei_health" component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" />
+
 
 	<!--___________________________游戏___________________________-->
 
- 	
+	<!-- minecraft -->
+	<item drawable="minecraft" component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" />
+
+	<!-- 愤怒的小鸟：进化 -->
+	<item drawable="angrybird_evolution" component="ComponentInfo{com.rovio.tnt/de.chimeraentertainment.unity.UnityPlayerActivity}" />
+
+	<!-- 暗影格斗3 -->
+	<item drawable="shadow_fight_3" component="ComponentInfo{com.nekki.shadowfight3/com.nekki.unityplugins.NekkiNativeActivity}" />
+
+	<!-- 暗影格斗3 -->
+	<item drawable="hustle_castle" component="ComponentInfo{com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity}" />
+
+	<!-- 狂野飙车9 -->
+	<item drawable="asphalt_9" component="ComponentInfo{com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity}" />
+
+	<!-- 月圆之夜 -->
+	<item drawable="night_of_the_full_moon" component="ComponentInfo{com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch}" />
+
+	<!-- 王权 -->
+	<item drawable="reigns" component="ComponentInfo{com.devolver.reigns/com.devolver.reigns.UnityPlayerActivity}" />
+
+	<!-- 王权:女王陛下 -->
+	<item drawable="reigns_her_majesty" component="ComponentInfo{com.devolver.reigns2/com.devolver.reigns2.UnityPlayerActivity}" />
+
+	<!-- 愤怒的小鸟 -->
+	<item drawable="angrybird_friends" component="ComponentInfo{com.rovio.angrybirdsfriends/com.rovio.fusion.App}" />
+
+
 </resources>

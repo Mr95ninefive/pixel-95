@@ -160,7 +160,7 @@
         <service android:name="com.material.dashboard.candybar.ninefive.services.MuzeiService"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
-            android:icon="@drawable/ic_muzei_logo"
+            android:icon="@drawable/ic_muzei_logo_bak"
             android:permission="android.permission.WAKE_LOCK">
             <intent-filter>
                 <action android:name="com.google.android.apps.muzei.api.MuzeiArtSource" />
