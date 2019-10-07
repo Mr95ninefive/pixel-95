@@ -90,6 +90,24 @@
 	<!-- Play游戏 -->
 	<item drawable="google_play_games" component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" />
 
+	<!-- 谷歌地图 -->
+	<item drawable="google_maps" component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" />
+
+	<!-- 谷歌相册 -->
+	<item drawable="google_photos" component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" />
+
+	<!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google Play Movies & TV‌‌‌‌‌‎ -->
+	<item drawable="google_play_movies_and_tv" component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" />
+
+	<!-- Google Play Music‌‌‌‌‌‎ -->
+	<item drawable="google_play_music" component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" />
+
+	<!-- Google Pay‌‌‌‌‌‎ -->
+	<item drawable="google_pay" component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" />
+
+	<!-- Duo‌‌‌‌‌‎ -->
+	<item drawable="google_duo" component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" />
+
 
 	<!--___________________________一加___________________________-->
 
@@ -149,6 +167,9 @@
 
 	<!-- 文件 -->
 	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
+
+	<!-- SIM卡工具 -->
+	<item drawable="sim_toolkit" component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" />
 
 
 	<!--___________________________应用___________________________-->
@@ -269,6 +290,37 @@
 
 	<!-- QQ -->
 	<item drawable="qq" component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" />
+
+	<!-- BAND -->
+	<item drawable="band" component="ComponentInfo{com.nhn.android.band/com.nhn.android.band.SplashActivity}" />
+
+	<!-- Discord -->
+	<item drawable="discord" component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" />
+
+	<!-- 白描 -->
+	<item drawable="bai_miao" component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" />
+
+	<!-- 华为应用商店 -->
+	<item drawable="huawei_app_gallery" component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" />
+
+	<!-- 百度网盘 -->
+	<item drawable="baidu_netdisk" component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" />
+
+	<!-- QQ安全中心 -->
+	<item drawable="qq_token" component="ComponentInfo{com.tencent.token/com.tencent.token.ui.LogoActivity}" />
+
+	<!-- 江苏移动掌上营业厅 -->
+	<item drawable="cmcc" component="ComponentInfo{com.jsmcc/com.jsmcc.ui.WelcomeActivity}" />
+
+	<!-- Microsoft Remote Desktop Beta -->
+	<item drawable="microsoft_remote_desktop" component="ComponentInfo{com.microsoft.rdc.android.beta/com.microsoft.rdc.ui.activities.HomeActivity}" />
+
+	<!-- 一个木函 -->
+	<item drawable="wood_box" component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" />
+
+
+	<!-- Netflix -->
+	<item drawable="netflix" component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" />
 
 
 	<!--___________________________游戏___________________________-->

@@ -12,6 +12,12 @@
     <item drawable="google_calendar" />
     <item drawable="chrome" />
     <item drawable="google_play_games" />
+    <item drawable="google_maps" />
+    <item drawable="google_photos" />
+    <item drawable="google_play_movies_and_tv‌‌‌‌‎" />
+    <item drawable="google_play_music" />
+    <item drawable="google_pay" />
+    <item drawable="google_duo" />
 
     <category title="一加" />
     <item drawable="oneplus_game_space" />
@@ -27,6 +33,7 @@
     <item drawable="magisk" />
     <item drawable="files" />
     <item drawable="camera" />
+    <item drawable="sim_toolkit" />
 
     <category title="应用" />
     <item drawable="pixel_95" />
@@ -70,6 +77,16 @@
     <item drawable="my_android_tools" />
     <item drawable="huawei_health" />
     <item drawable="qq" />
+    <item drawable="band" />
+    <item drawable="discord" />
+    <item drawable="bai_miao" />
+    <item drawable="huawei_app_gallery" />
+    <item drawable="baidu_netdisk" />
+    <item drawable="qq_token" />
+    <item drawable="cmcc" />
+    <item drawable="microsoft_remote_desktop" />
+    <item drawable="wood_box" />
+    <item drawable="netflix" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

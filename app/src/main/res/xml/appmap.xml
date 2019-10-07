@@ -38,6 +38,24 @@
     <!-- Play游戏 -->
     <item name="google_play_games" class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"/>
 
+    <!-- 谷歌地图 -->
+    <item name="google_maps" class="com.google.android.apps.maps/com.google.android.maps.MapsActivity"/>
+
+    <!-- 谷歌相册 -->
+    <item name="google_photos" class="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"/>
+
+    <!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google Play Movies & TV‌‌‌‌‌‎ -->
+    <item name="google_play_movies_and_tv" class="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"/>
+
+    <!-- Google Play Music‌‌‌‌‌‎ -->
+    <item name="google_play_music" class="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"/>
+
+    <!-- Google Pay‌‌‌‌‌‎ -->
+    <item name="google_pay" class="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"/>
+
+    <!-- Duo‌‌‌‌‌‎ -->
+    <item name="google_duo" class="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"/>
+
     <!--___________________________一加___________________________-->
 
     <!-- 一加电话 -->
@@ -99,6 +117,9 @@
 
     <!-- 文件 -->
     <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
+
+    <!-- SIM卡工具 -->
+    <item name="sim_toolkit" class="com.android.stk/com.android.stk.StkMain"/>
 
 
     <!--___________________________应用___________________________-->
@@ -216,6 +237,36 @@
 
     <!-- QQ -->
     <item name="qq" class="com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity"/>
+
+    <!-- BAND -->
+    <item name="band" class="com.nhn.android.band/com.nhn.android.band.SplashActivity"/>
+
+    <!-- Discord -->
+    <item name="discord" class="com.discord/com.discord.app.AppActivity$Main"/>
+
+    <!-- 白描 -->
+    <item name="bai_miao" class="com.uzero.baimiao/com.uzero.baimiao.Hello"/>
+
+    <!-- 华为应用商店 -->
+    <item name="huawei_app_gallery" class="com.huawei.appmarket/com.huawei.appmarket.MainActivity"/>
+
+    <!-- 百度网盘 -->
+    <item name="baidu_netdisk" class="com.baidu.netdisk/com.baidu.netdisk.ui.Navigate"/>
+
+    <!-- QQ安全中心 -->
+    <item name="qq_token" class="com.tencent.token/com.tencent.token.ui.LogoActivity"/>
+
+    <!-- 江苏移动掌上营业厅 -->
+    <item name="cmcc" class="com.jsmcc/com.jsmcc.ui.WelcomeActivity"/>
+
+    <!-- Microsoft Remote Desktop Beta -->
+    <item name="microsoft_remote_desktop" class="com.microsoft.rdc.android.beta/com.microsoft.rdc.ui.activities.HomeActivity"/>
+
+    <!-- 一个木函 -->
+    <item name="wood_box" class="com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity"/>
+
+    <!-- Netflix -->
+    <item name="netflix" class="com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"/>
 
 
     <!--___________________________游戏___________________________-->
