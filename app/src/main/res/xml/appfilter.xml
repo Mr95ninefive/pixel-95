@@ -90,10 +90,8 @@
 	<!-- Play游戏 -->
 	<item drawable="google_play_games" component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" />
 
-	<!--___________________________系统___________________________-->
 
-	<!-- 设置 -->
-	<item drawable="settings" component="ComponentInfo{com.android.settings/com.android.settings.Settings}" />
+	<!--___________________________一加___________________________-->
 
 	<!-- 一加电话 -->
 	<item drawable="phone" component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" />
@@ -104,12 +102,6 @@
 	<!-- 一加通讯录 -->
 	<item drawable="contacts" component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" />
 
-	<!-- magisk -->
-	<item drawable="magisk" component="ComponentInfo{com.topjohnwu.magisk/a.c}" />
-
-	<!-- 文件 -->
-	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
-
 	<!-- 一加文件管理 -->
 	<item drawable="files" component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" />
 
@@ -118,6 +110,46 @@
 
 	<!-- 一加游戏空间 -->
 	<item drawable="oneplus_game_space" component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" />
+
+	<!-- 一加图库 -->
+	<item drawable="gallery" component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" />
+
+	<!-- 一加社区国际版 -->
+	<item drawable="oneplus_community" component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" />
+
+	<!-- 一加社区国内版 -->
+	<item drawable="oneplus_community" component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" />
+
+	<!-- 一加时钟 -->
+	<item drawable="clock" component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" />
+
+	<!-- 一加天气 -->
+	<item drawable="weather" component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" />
+
+	<!-- 一加录音 -->
+	<item drawable="recorder" component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" />
+
+	<!-- 一加计算器 -->
+	<item drawable="calculator" component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" />
+
+	<!-- 一加便签 -->
+	<item drawable="oneplus_notes" component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" />
+
+	<!-- 一加搬家 -->
+	<item drawable="oneplus_switch" component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" />
+
+
+	<!--___________________________系统___________________________-->
+
+	<!-- 设置 -->
+	<item drawable="settings" component="ComponentInfo{com.android.settings/com.android.settings.Settings}" />
+
+	<!-- magisk -->
+	<item drawable="magisk" component="ComponentInfo{com.topjohnwu.magisk/a.c}" />
+
+	<!-- 文件 -->
+	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
+
 
 	<!--___________________________应用___________________________-->
 
@@ -145,9 +177,6 @@
 	<!-- TIM -->
 	<item drawable="tim" component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" />
 
-	<!-- 一加图库 -->
-	<item drawable="gallery" component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" />
-
 	<!-- 简约图库Pro -->
 	<item drawable="gallery" component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" />
 
@@ -159,12 +188,6 @@
 
 	<!-- 微博国际版 -->
 	<item drawable="weibo_intl" component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" />
-
-	<!-- 一加社区国际版 -->
-	<item drawable="oneplus_community" component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" />
-
-	<!-- 一加社区国内版 -->
-	<item drawable="oneplus_community" component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" />
 
 	<!-- IT之家 -->
 	<item drawable="it_home" component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" />
@@ -196,9 +219,6 @@
 	<!-- Google云端硬盘 -->
 	<item drawable="google_drive" component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" />
 
-	<!-- clock -->
-	<item drawable="clock" component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" />
-
 	<!-- WearOS -->
 	<item drawable="wear_os" component="ComponentInfo{com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity}" />
 
@@ -208,26 +228,14 @@
 	<!-- RE管理器 -->
 	<item drawable="root_explorer" component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" />
 
-	<!-- 一加天气 -->
-	<item drawable="weather" component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" />
-
-	<!-- 一加录音 -->
-	<item drawable="recorder" component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" />
-
 	<!-- 谷歌翻译 -->
 	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
-
-	<!-- 一加计算器 -->
-	<item drawable="calculator" component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" />
 
 	<!-- HiPER Calc Pro -->
 	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
 
 	<!-- Surfboard -->
 	<item drawable="surfboard" component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}" />
-
-	<!-- 一加便签 -->
-	<item drawable="oneplus_notes" component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" />
 
 	<!-- 有道云笔记 -->
 	<item drawable="youdao_note" component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" />
@@ -237,9 +245,6 @@
 
 	<!-- 车来了 -->
 	<item drawable="che_lai_le" component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}" />
-
-	<!-- 一加搬家 -->
-	<item drawable="oneplus_switch" component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" />
 
 	<!-- 梦幻表盘 -->
 	<item drawable="fantasy_wear" component="ComponentInfo{com.wear.fantasy/com.wear.fantasy.app.ui.StartActivity}" />
@@ -261,6 +266,9 @@
 
 	<!-- 华为运动健康 -->
 	<item drawable="huawei_health" component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" />
+
+	<!-- QQ -->
+	<item drawable="qq" component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" />
 
 
 	<!--___________________________游戏___________________________-->

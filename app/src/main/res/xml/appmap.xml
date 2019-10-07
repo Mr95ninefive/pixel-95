@@ -38,13 +38,7 @@
     <!-- Play游戏 -->
     <item name="google_play_games" class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"/>
 
-    <!--___________________________系统___________________________-->
-
-    <!-- app图标 -->
-    <item name="pixel_95" class="com.material.dashboard.candybar.ninefive/com.material.dashboard.candybar.ninefive.activities.SplashActivity"/>
-
-    <!-- 设置 -->
-    <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
+    <!--___________________________一加___________________________-->
 
     <!-- 一加电话 -->
     <item name="phone" class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"/>
@@ -55,12 +49,6 @@
     <!-- 一加通讯录 -->
     <item name="contacts" class="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"/>
 
-    <!-- magisk -->
-    <item name="magisk" class="com.topjohnwu.magisk/a.c"/>
-
-    <!-- 文件 -->
-    <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
-
     <!-- 一加文件管理 -->
     <item name="files" class="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity"/>
 
@@ -69,6 +57,48 @@
 
     <!-- 一加游戏空间 -->
     <item name="oneplus_game_space" class="com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity"/>
+
+    <!-- 一加图库 -->
+    <item name="gallery" class="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"/>
+
+    <!-- 一加社区国际版 -->
+    <item name="oneplus_community" class="net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"/>
+
+    <!-- 一加社区国内版 -->
+    <item name="oneplus_community" class="com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity"/>
+
+    <!-- 一加时钟 -->
+    <item name="clock" class="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock"/>
+
+    <!-- 一加天气 -->
+    <item name="weather" class="net.oneplus.weather/net.oneplus.weather.app.MainActivity"/>
+
+    <!-- 一加录音 -->
+    <item name="recorder" class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"/>
+
+    <!-- 一加计算器 -->
+    <item name="calculator" class="com.oneplus.calculator/com.oneplus.calculator.Calculator"/>
+
+    <!-- 一加便签 -->
+    <item name="oneplus_notes" class="com.oneplus.note/com.oneplus.note.ui.MainActivity"/>
+
+    <!-- 一加搬家 -->
+    <item name="oneplus_switch" class="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"/>
+
+
+    <!--___________________________系统___________________________-->
+
+    <!-- app图标 -->
+    <item name="pixel_95" class="com.material.dashboard.candybar.ninefive/com.material.dashboard.candybar.ninefive.activities.SplashActivity"/>
+
+    <!-- 设置 -->
+    <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
+
+    <!-- magisk -->
+    <item name="magisk" class="com.topjohnwu.magisk/a.c"/>
+
+    <!-- 文件 -->
+    <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
 
 
     <!--___________________________应用___________________________-->
@@ -94,9 +124,6 @@
     <!-- TIM -->
     <item name="tim" class="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"/>
 
-    <!-- 一加图库 -->
-    <item name="gallery" class="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"/>
-
     <!-- 简约图库Pro -->
     <item name="gallery" class="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"/>
 
@@ -111,12 +138,6 @@
 
     <!-- IT之家 -->
     <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
-
-    <!-- 一加社区国际版 -->
-    <item name="oneplus_community" class="net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"/>
-
-    <!-- 一加社区国内版 -->
-    <item name="oneplus_community" class="com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity"/>
 
     <!-- XDA Labs -->
     <item name="xda_labs" class="com.xda.labs/com.xda.labs.LabsLauncher"/>
@@ -145,9 +166,6 @@
     <!-- Google云端硬盘 -->
     <item name="google_drive" class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"/>
 
-    <!-- clock -->
-    <item name="clock" class="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock"/>
-
     <!-- WearOS -->
     <item name="wear_os" class="com.google.android.wearable.app.cn/com.google.android.clockwork.companion.launcher.LauncherActivity"/>
 
@@ -157,26 +175,14 @@
     <!-- RE管理器 -->
     <item name="root_explorer" class="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer"/>
 
-    <!-- 一加天气 -->
-    <item name="weather" class="net.oneplus.weather/net.oneplus.weather.app.MainActivity"/>
-
-    <!-- 一加录音 -->
-    <item name="recorder" class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"/>
-
     <!-- 谷歌翻译 -->
     <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
-
-    <!-- 一加计算器 -->
-    <item name="calculator" class="com.oneplus.calculator/com.oneplus.calculator.Calculator"/>
 
     <!-- HiPER Calc Pro -->
     <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>
 
     <!-- Surfboard -->
     <item name="surfboard" class="com.getsurfboard/com.getsurfboard.activity.MainActivity"/>
-
-    <!-- 一加便签 -->
-    <item name="oneplus_notes" class="com.oneplus.note/com.oneplus.note.ui.MainActivity"/>
 
     <!-- 有道云笔记 -->
     <item name="youdao_note" class="com.youdao.note/com.youdao.note.activity2.SplashActivity"/>
@@ -186,9 +192,6 @@
 
     <!-- 车来了 -->
     <item name="che_lai_le" class="com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity"/>
-
-    <!-- 一加搬家 -->
-    <item name="oneplus_switch" class="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"/>
 
     <!-- 梦幻表盘 -->
     <item name="fantasy_wear" class="com.wear.fantasy/com.wear.fantasy.app.ui.StartActivity"/>
@@ -210,6 +213,9 @@
 
     <!-- 华为运动健康 -->
     <item name="huawei_health" class="com.huawei.health/com.huawei.health.MainActivity"/>
+
+    <!-- QQ -->
+    <item name="qq" class="com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity"/>
 
 
     <!--___________________________游戏___________________________-->
