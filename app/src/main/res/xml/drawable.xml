@@ -87,6 +87,8 @@
     <item drawable="microsoft_remote_desktop" />
     <item drawable="wood_box" />
     <item drawable="netflix" />
+    <item drawable="pharos" />
+    <item drawable="ssr" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

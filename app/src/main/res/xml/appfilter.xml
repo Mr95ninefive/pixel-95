@@ -318,9 +318,14 @@
 	<!-- 一个木函 -->
 	<item drawable="wood_box" component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" />
 
-
 	<!-- Netflix -->
 	<item drawable="netflix" component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" />
+
+	<!-- Pharos -->
+	<item drawable="pharos" component="ComponentInfo{com.github.pharos/com.github.pharos.WBMainActivity}" />
+
+	<!-- ssr -->
+	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
 
 
 	<!--___________________________游戏___________________________-->
@@ -334,7 +339,7 @@
 	<!-- 暗影格斗3 -->
 	<item drawable="shadow_fight_3" component="ComponentInfo{com.nekki.shadowfight3/com.nekki.unityplugins.NekkiNativeActivity}" />
 
-	<!-- 暗影格斗3 -->
+	<!-- Hustle Castle -->
 	<item drawable="hustle_castle" component="ComponentInfo{com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity}" />
 
 	<!-- 狂野飙车9 -->
