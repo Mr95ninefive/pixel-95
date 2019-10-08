@@ -49,9 +49,7 @@
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        Description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        不发布的自用图标包
         ]]></string>
 
     <!-- More apps at Google Play Store
@@ -191,9 +189,7 @@
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        不发布的自用图标包
         ]]></string>
 
     <!-- Social link inside about
