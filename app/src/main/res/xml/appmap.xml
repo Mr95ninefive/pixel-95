@@ -29,6 +29,9 @@
     <!-- 谷歌日历 -->
     <item name="google_calendar" class="com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity"/>
 
+    <!-- 谷歌翻译 -->
+    <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
+
     <!-- Chrome Dev -->
     <item name="chrome" class="com.chrome.dev/com.google.android.apps.chrome.Main"/>
 
@@ -195,9 +198,6 @@
 
     <!-- RE管理器 -->
     <item name="root_explorer" class="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer"/>
-
-    <!-- 谷歌翻译 -->
-    <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
 
     <!-- HiPER Calc Pro -->
     <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>

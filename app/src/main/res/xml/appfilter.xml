@@ -81,6 +81,9 @@
 	<!-- 谷歌日历 -->
 	<item drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.google.android.calendar.AllInOneCalendarActivity}" />
 
+	<!-- 谷歌翻译 -->
+	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
+
 	<!-- Chrome Dev -->
 	<item drawable="chrome" component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" />
 
@@ -248,9 +251,6 @@
 
 	<!-- RE管理器 -->
 	<item drawable="root_explorer" component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" />
-
-	<!-- 谷歌翻译 -->
-	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
 
 	<!-- HiPER Calc Pro -->
 	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
