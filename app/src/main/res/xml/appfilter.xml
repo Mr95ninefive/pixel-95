@@ -249,6 +249,9 @@
 	<!-- 来电信息 -->
 	<item drawable="caller_info" component="ComponentInfo{org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity}" />
 
+	<!-- 来电信息插件 -->
+	<item drawable="caller_info_plugin" component="ComponentInfo{org.xdty.callerinfo.plugin/org.xdty.callerinfo.plugin.Launcher}" />
+
 	<!-- RE管理器 -->
 	<item drawable="root_explorer" component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" />
 
@@ -326,6 +329,21 @@
 
 	<!-- ssr -->
 	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
+
+	<!-- ssrb -->
+	<item drawable="ssrb" component="ComponentInfo{io.github.shadowsocksrb/com.github.shadowsocks.MainActivity}" />
+
+	<!-- my_nanjing -->
+	<item drawable="my_nanjing" component="ComponentInfo{com.hoperun.intelligenceportal/com.hoperun.intelligenceportal}" />
+
+	<!-- substratum -->
+	<item drawable="substratum" component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" />
+
+	<!-- substratum_lite -->
+	<item drawable="substratum_lite" component="ComponentInfo{projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity}" />
+
+	<!-- flux_white -->
+	<item drawable="flux_white" component="ComponentInfo{flux.white.substratum/*}" />
 
 
 	<!--___________________________游戏___________________________-->

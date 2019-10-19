@@ -61,6 +61,7 @@
     <item drawable="clock" />
     <item drawable="wear_os" />
     <item drawable="caller_info" />
+    <item drawable="caller_info_plugin" />
     <item drawable="root_explorer" />
     <item drawable="weather" />
     <item drawable="recorder" />
@@ -89,6 +90,11 @@
     <item drawable="netflix" />
     <item drawable="pharos" />
     <item drawable="ssr" />
+    <item drawable="ssrb" />
+    <item drawable="my_nanjing" />
+    <item drawable="substratum" />
+    <item drawable="substratum_lite" />
+    <item drawable="flux_white" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

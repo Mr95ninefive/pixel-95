@@ -196,6 +196,9 @@
     <!-- 来电信息 -->
     <item name="caller_info" class="org.xdty.callerinfo/org.xdty.callerinfo.activity.MainActivity"/>
 
+    <!-- 来电信息插件 -->
+    <item name="caller_info_plugin" class="org.xdty.callerinfo.plugin/org.xdty.callerinfo.plugin.Launcher"/>
+
     <!-- RE管理器 -->
     <item name="root_explorer" class="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer"/>
 
@@ -273,6 +276,21 @@
 
     <!-- ssr -->
     <item name="ssr" class="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"/>
+
+    <!-- ssrb -->
+    <item name="ssrb" class="io.github.shadowsocksrb/com.github.shadowsocks.MainActivity"/>
+
+    <!-- my_nanjing -->
+    <item name="my_nanjing" class="com.hoperun.intelligenceportal/com.hoperun.intelligenceportal"/>
+
+    <!-- substratum -->
+    <item name="substratum" class="projekt.substratum/projekt.substratum.LauncherActivity"/>
+
+    <!-- substratum_lite -->
+    <item name="substratum_lite" class="projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity"/>
+
+    <!-- flux_white -->
+    <item name="flux_white" class="flux.white.substratum/*"/>
 
 
     <!--___________________________游戏___________________________-->
