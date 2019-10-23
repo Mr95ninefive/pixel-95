@@ -66,7 +66,6 @@
     <item drawable="weather" />
     <item drawable="recorder" />
     <item drawable="calculator" />
-    <item drawable="surfboard" />
     <item drawable="youdao_note" />
     <item drawable="baidu_map" />
     <item drawable="che_lai_le" />
@@ -88,13 +87,17 @@
     <item drawable="microsoft_remote_desktop" />
     <item drawable="wood_box" />
     <item drawable="netflix" />
-    <item drawable="pharos" />
-    <item drawable="ssr" />
-    <item drawable="ssrb" />
     <item drawable="my_nanjing" />
     <item drawable="substratum" />
     <item drawable="substratum_lite" />
     <item drawable="flux_white" />
+
+    <category title="网络" />
+    <item drawable="surfboard" />
+    <item drawable="pharos" />
+    <item drawable="ssr" />
+    <item drawable="ssrb" />
+    <item drawable="maying" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

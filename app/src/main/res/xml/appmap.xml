@@ -205,9 +205,6 @@
     <!-- HiPER Calc Pro -->
     <item name="calculator" class="cz.hipercalc.pro/cz.hipercalc.CalculatorActivity"/>
 
-    <!-- Surfboard -->
-    <item name="surfboard" class="com.getsurfboard/com.getsurfboard.activity.MainActivity"/>
-
     <!-- 有道云笔记 -->
     <item name="youdao_note" class="com.youdao.note/com.youdao.note.activity2.SplashActivity"/>
 
@@ -271,15 +268,6 @@
     <!-- Netflix -->
     <item name="netflix" class="com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"/>
 
-    <!-- Pharos -->
-    <item name="pharos" class="com.github.pharos/com.github.pharos.WBMainActivity"/>
-
-    <!-- ssr -->
-    <item name="ssr" class="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"/>
-
-    <!-- ssrb -->
-    <item name="ssrb" class="io.github.shadowsocksrb/com.github.shadowsocks.MainActivity"/>
-
     <!-- my_nanjing -->
     <item name="my_nanjing" class="com.hoperun.intelligenceportal/com.hoperun.intelligenceportal"/>
 
@@ -291,6 +279,24 @@
 
     <!-- flux_white -->
     <item name="flux_white" class="flux.white.substratum/*"/>
+
+
+    <!--___________________________网络___________________________-->
+
+    <!-- Surfboard -->
+    <item name="surfboard" class="com.getsurfboard/com.getsurfboard.activity.MainActivity"/>
+
+    <!-- Pharos -->
+    <item name="pharos" class="com.github.pharos/com.github.pharos.WBMainActivity"/>
+
+    <!-- ssr -->
+    <item name="ssr" class="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"/>
+
+    <!-- ssrb -->
+    <item name="ssrb" class="io.github.shadowsocksrb/com.github.shadowsocks.MainActivity"/>
+
+    <!-- maying -->
+    <item name="maying" class="co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks"/>
 
 
     <!--___________________________游戏___________________________-->

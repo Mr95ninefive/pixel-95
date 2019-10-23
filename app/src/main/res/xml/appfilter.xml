@@ -258,9 +258,6 @@
 	<!-- HiPER Calc Pro -->
 	<item drawable="calculator" component="ComponentInfo{cz.hipercalc.pro/cz.hipercalc.CalculatorActivity}" />
 
-	<!-- Surfboard -->
-	<item drawable="surfboard" component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}" />
-
 	<!-- 有道云笔记 -->
 	<item drawable="youdao_note" component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}" />
 
@@ -324,15 +321,6 @@
 	<!-- Netflix -->
 	<item drawable="netflix" component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" />
 
-	<!-- Pharos -->
-	<item drawable="pharos" component="ComponentInfo{com.github.pharos/com.github.pharos.WBMainActivity}" />
-
-	<!-- ssr -->
-	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
-
-	<!-- ssrb -->
-	<item drawable="ssrb" component="ComponentInfo{io.github.shadowsocksrb/com.github.shadowsocks.MainActivity}" />
-
 	<!-- my_nanjing -->
 	<item drawable="my_nanjing" component="ComponentInfo{com.hoperun.intelligenceportal/com.hoperun.intelligenceportal}" />
 
@@ -344,6 +332,24 @@
 
 	<!-- flux_white -->
 	<item drawable="flux_white" component="ComponentInfo{flux.white.substratum/*}" />
+
+
+	<!--___________________________网络___________________________-->
+
+	<!-- Surfboard -->
+	<item drawable="surfboard" component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}" />
+
+	<!-- Pharos -->
+	<item drawable="pharos" component="ComponentInfo{com.github.pharos/com.github.pharos.WBMainActivity}" />
+
+	<!-- ssr -->
+	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
+
+	<!-- ssrb -->
+	<item drawable="ssrb" component="ComponentInfo{io.github.shadowsocksrb/com.github.shadowsocks.MainActivity}" />
+
+	<!-- maying -->
+	<item drawable="maying" component="ComponentInfo{co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks}" />
 
 
 	<!--___________________________游戏___________________________-->
