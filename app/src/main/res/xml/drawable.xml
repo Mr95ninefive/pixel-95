@@ -98,6 +98,7 @@
     <item drawable="ssr" />
     <item drawable="ssrb" />
     <item drawable="maying" />
+    <item drawable="clash_a" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

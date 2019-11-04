@@ -298,6 +298,9 @@
     <!-- maying -->
     <item name="maying" class="co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks"/>
 
+    <!-- ClashA -->
+    <item name="clash_a" class="com.github.ccg.clasha/com.github.cgg.clasha.MainActivity"/>
+
 
     <!--___________________________游戏___________________________-->
 

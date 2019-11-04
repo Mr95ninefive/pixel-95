@@ -351,6 +351,9 @@
 	<!-- maying -->
 	<item drawable="maying" component="ComponentInfo{co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks}" />
 
+	<!-- ClashA -->
+	<item drawable="clash_a" component="ComponentInfo{com.github.ccg.clasha/com.github.cgg.clasha.MainActivity}" />
+
 
 	<!--___________________________游戏___________________________-->
 
