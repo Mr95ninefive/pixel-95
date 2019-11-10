@@ -25,6 +25,7 @@
     <item drawable="oneplus_community" />
     <item drawable="oneplus_notes" />
     <item drawable="oneplus_switch" />
+    <item drawable="oneplus_screenrecord" />
 
     <category title="系统" />
     <item drawable="settings" />
@@ -35,6 +36,7 @@
     <item drawable="files" />
     <item drawable="camera" />
     <item drawable="sim_toolkit" />
+    <item drawable="digital_wellbeing" />
 
     <category title="应用" />
     <item drawable="pixel_95" />
@@ -91,6 +93,8 @@
     <item drawable="substratum" />
     <item drawable="substratum_lite" />
     <item drawable="flux_white" />
+    <item drawable="light_start" />
+    <item drawable="utility_toolbox" />
 
     <category title="网络" />
     <item drawable="surfboard" />

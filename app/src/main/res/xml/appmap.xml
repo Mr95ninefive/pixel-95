@@ -106,6 +106,9 @@
     <!-- 一加搬家 -->
     <item name="oneplus_switch" class="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"/>
 
+    <!-- 一加屏幕录像 -->
+    <item name="oneplus_screenrecord" class="com.oneplus.screenrecord/*"/>
+
 
     <!--___________________________系统___________________________-->
 
@@ -123,6 +126,9 @@
 
     <!-- SIM卡工具 -->
     <item name="sim_toolkit" class="com.android.stk/com.android.stk.StkMain"/>
+
+    <!-- 数字健康 -->
+    <item name="digital_wellbeing" class="com.google.android.apps.wellbeing/*"/>
 
 
     <!--___________________________应用___________________________-->
@@ -279,6 +285,12 @@
 
     <!-- flux_white -->
     <item name="flux_white" class="flux.white.substratum/*"/>
+
+    <!-- 轻启动 -->
+    <item name="light_start" class="com.wpengapp.lightstart/com.wpengapp.support.activity.LauncherActivity"/>
+
+    <!-- 实用工具箱 -->
+    <item name="utility_toolbox" class="com.hj119.sygjx/com.e4a.runtime.android.StartActivity"/>
 
 
     <!--___________________________网络___________________________-->

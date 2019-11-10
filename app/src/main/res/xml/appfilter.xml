@@ -159,6 +159,9 @@
 	<!-- 一加搬家 -->
 	<item drawable="oneplus_switch" component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" />
 
+	<!-- 一加屏幕录像 -->
+	<item drawable="oneplus_screenrecord" component="ComponentInfo{com.oneplus.screenrecord/*}" />
+
 
 	<!--___________________________系统___________________________-->
 
@@ -173,6 +176,9 @@
 
 	<!-- SIM卡工具 -->
 	<item drawable="sim_toolkit" component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" />
+
+	<!-- 数字健康 -->
+	<item drawable="digital_wellbeing" component="ComponentInfo{com.google.android.apps.wellbeing/*}" />
 
 
 	<!--___________________________应用___________________________-->
@@ -332,6 +338,12 @@
 
 	<!-- flux_white -->
 	<item drawable="flux_white" component="ComponentInfo{flux.white.substratum/*}" />
+
+	<!-- 轻启动 -->
+	<item drawable="light_start" component="ComponentInfo{com.wpengapp.lightstart/com.wpengapp.support.activity.LauncherActivity}" />
+
+	<!-- 实用工具箱 -->
+	<item drawable="utility_toolbox" component="ComponentInfo{com.hj119.sygjx/com.e4a.runtime.android.StartActivity}" />
 
 
 	<!--___________________________网络___________________________-->
