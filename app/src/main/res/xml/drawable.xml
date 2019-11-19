@@ -95,6 +95,7 @@
     <item drawable="flux_white" />
     <item drawable="light_start" />
     <item drawable="utility_toolbox" />
+    <item drawable="redirect_storage" />
 
     <category title="网络" />
     <item drawable="surfboard" />

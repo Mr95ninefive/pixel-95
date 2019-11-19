@@ -242,6 +242,7 @@
 
 	<!-- 冰箱 -->
 	<item drawable="ice_box" component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity}" />
+	<item drawable="ice_box" component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" />
 
 	<!-- 悬浮菜单 -->
 	<item drawable="floating_menu" component="ComponentInfo{com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity}" />
@@ -345,6 +346,9 @@
 	<!-- 实用工具箱 -->
 	<item drawable="utility_toolbox" component="ComponentInfo{com.hj119.sygjx/com.e4a.runtime.android.StartActivity}" />
 
+	<!-- 存储重定向 -->
+	<item drawable="redirect_storage" component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 
@@ -362,6 +366,9 @@
 
 	<!-- maying -->
 	<item drawable="maying" component="ComponentInfo{co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks}" />
+
+	<!-- ShadowsocksR -->
+	<item drawable="ssr" component="ComponentInfo{com.bige0.shadowsocksr/com.bige0.shadowsocksr.Shadowsocks}" />
 
 	<!-- ClashA -->
 	<item drawable="clash_a" component="ComponentInfo{com.github.ccg.clasha/com.github.cgg.clasha.MainActivity}" />

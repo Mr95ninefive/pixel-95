@@ -189,6 +189,7 @@
 
     <!-- 冰箱 -->
     <item name="ice_box" class="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity"/>
+    <item name="ice_box" class="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity"/>
 
     <!-- 悬浮菜单 -->
     <item name="floating_menu" class="com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity"/>
@@ -292,6 +293,9 @@
     <!-- 实用工具箱 -->
     <item name="utility_toolbox" class="com.hj119.sygjx/com.e4a.runtime.android.StartActivity"/>
 
+    <!-- 存储重定向 -->
+    <item name="redirect_storage" class="moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity"/>
+
 
     <!--___________________________网络___________________________-->
 
@@ -309,6 +313,9 @@
 
     <!-- maying -->
     <item name="maying" class="co.tgbot.peekfun/co.tgbot.peekfun.Shadowsocks"/>
+
+    <!-- ShadowsocksR -->
+    <item name="ssr" class="com.bige0.shadowsocksr/com.bige0.shadowsocksr.Shadowsocks"/>
 
     <!-- ClashA -->
     <item name="clash_a" class="com.github.ccg.clasha/com.github.cgg.clasha.MainActivity"/>
