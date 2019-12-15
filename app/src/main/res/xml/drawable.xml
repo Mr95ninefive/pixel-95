@@ -96,6 +96,9 @@
     <item drawable="light_start" />
     <item drawable="utility_toolbox" />
     <item drawable="redirect_storage" />
+    <item drawable="teambition" />
+    <item drawable="instagram" />
+    <item drawable="microsoft_office" />
 
     <category title="网络" />
     <item drawable="surfboard" />
