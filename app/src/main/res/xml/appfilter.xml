@@ -362,6 +362,12 @@
 	<!-- microsoft_office -->
 	<item drawable="microsoft_office" component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officemobile.OfficeMobileActivity}" />
 
+	<!-- huawei -->
+	<item drawable="huawei" component="ComponentInfo{com.huawei.hwid/*}" />
+
+	<!-- 家在仁恒 -->
+	<item drawable="yanlord" component="ComponentInfo{com.yanlord.property/com.yanlord.property.activities.homepage.SplashActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 

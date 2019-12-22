@@ -99,6 +99,8 @@
     <item drawable="teambition" />
     <item drawable="instagram" />
     <item drawable="microsoft_office" />
+    <item drawable="huawei" />
+    <item drawable="yanlord" />
 
     <category title="网络" />
     <item drawable="surfboard" />

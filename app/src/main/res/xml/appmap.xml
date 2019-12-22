@@ -309,6 +309,12 @@
     <!-- microsoft_office -->
     <item name="microsoft_office" class="com.microsoft.office.officehubrow/com.microsoft.office.officemobile.OfficeMobileActivity"/>
 
+    <!-- huawei -->
+    <item name="huawei" class="com.huawei.hwid/*"/>
+
+    <!-- 家在仁恒 -->
+    <item name="yanlord" class="com.yanlord.property/com.yanlord.property.activities.homepage.SplashActivity"/>
+
 
     <!--___________________________网络___________________________-->
 
