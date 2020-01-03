@@ -315,6 +315,15 @@
     <!-- 家在仁恒 -->
     <item name="yanlord" class="com.yanlord.property/com.yanlord.property.activities.homepage.SplashActivity"/>
 
+    <!-- CC来电拦截N+ -->
+    <item name="cc_call_blocker_n" class="zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView"/>
+
+    <!-- xbox -->
+    <item name="xbox" class="com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity"/>
+
+    <!-- 中国银行 -->
+    <item name="bank_of_china" class="com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"/>
+
 
     <!--___________________________网络___________________________-->
 
@@ -323,6 +332,7 @@
 
     <!-- Pharos -->
     <item name="pharos" class="com.github.pharos/com.github.pharos.WBMainActivity"/>
+    <item name="pharos" class="com.pharospro.gugugu/com.pharospro.gugugu.GuguMain"/>
 
     <!-- ssr -->
     <item name="ssr" class="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"/>

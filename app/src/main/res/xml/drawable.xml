@@ -101,6 +101,9 @@
     <item drawable="microsoft_office" />
     <item drawable="huawei" />
     <item drawable="yanlord" />
+    <item drawable="cc_call_blocker_n" />
+    <item drawable="xbox" />
+    <item drawable="bank_of_china" />
 
     <category title="网络" />
     <item drawable="surfboard" />

@@ -368,6 +368,15 @@
 	<!-- 家在仁恒 -->
 	<item drawable="yanlord" component="ComponentInfo{com.yanlord.property/com.yanlord.property.activities.homepage.SplashActivity}" />
 
+	<!-- CC来电拦截N+ -->
+	<item drawable="cc_call_blocker_n" component="ComponentInfo{zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView}" />
+
+	<!-- xbox -->
+	<item drawable="xbox" component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" />
+
+	<!-- 中国银行 -->
+	<item drawable="bank_of_china" component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 
@@ -376,6 +385,7 @@
 
 	<!-- Pharos -->
 	<item drawable="pharos" component="ComponentInfo{com.github.pharos/com.github.pharos.WBMainActivity}" />
+	<item drawable="pharos" component="ComponentInfo{com.pharospro.gugugu/com.pharospro.gugugu.GuguMain}" />
 
 	<!-- ssr -->
 	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
