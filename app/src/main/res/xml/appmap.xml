@@ -324,6 +324,15 @@
     <!-- 中国银行 -->
     <item name="bank_of_china" class="com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"/>
 
+    <!-- Plus Message -->
+    <item name="plus_message" class="org.telegram.plus/org.telegram.ui.LaunchActivity"/>
+
+    <!-- 童心在线(园所版) -->
+    <item name="tong_xin_zai_xian_kindergarten" class="com.tongxinwudong.kindergarten/com.tongxinwudong.MainActivity"/>
+
+    <!-- 童心在线 -->
+    <item name="tong_xin_zai_xian" class="com.tongxinwudong/com.tongxinwudong.MainActivity"/>
+
 
     <!--___________________________网络___________________________-->
 

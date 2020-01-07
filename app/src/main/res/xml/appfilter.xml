@@ -377,6 +377,15 @@
 	<!-- 中国银行 -->
 	<item drawable="bank_of_china" component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" />
 
+	<!-- Plus Message -->
+	<item drawable="plus_message" component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" />
+
+	<!-- 童心在线(园所版) -->
+	<item drawable="tong_xin_zai_xian_kindergarten" component="ComponentInfo{com.tongxinwudong.kindergarten/com.tongxinwudong.MainActivity}" />
+
+	<!-- 童心在线 -->
+	<item drawable="tong_xin_zai_xian" component="ComponentInfo{com.tongxinwudong/com.tongxinwudong.MainActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 

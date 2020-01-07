@@ -104,6 +104,9 @@
     <item drawable="cc_call_blocker_n" />
     <item drawable="xbox" />
     <item drawable="bank_of_china" />
+    <item drawable="plus_message" />
+    <item drawable="tong_xin_zai_xian_kindergarten" />
+    <item drawable="tong_xin_zai_xian" />
 
     <category title="网络" />
     <item drawable="surfboard" />
