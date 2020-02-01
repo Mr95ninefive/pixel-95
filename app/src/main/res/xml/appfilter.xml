@@ -216,8 +216,14 @@
 	<!-- reddit -->
 	<item drawable="reddit" component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" />
 
+	<!-- 微博 -->
+	<item drawable="weibo" component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" />
+
 	<!-- 微博国际版 -->
 	<item drawable="weibo_intl" component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" />
+
+	<!-- Share微博客户端 -->
+	<item drawable="weibo_share" component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" />
 
 	<!-- IT之家 -->
 	<item drawable="it_home" component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" />
@@ -396,6 +402,9 @@
 	<item drawable="pharos" component="ComponentInfo{com.github.pharos/com.github.pharos.WBMainActivity}" />
 	<item drawable="pharos" component="ComponentInfo{com.pharospro.gugugu/com.pharospro.gugugu.GuguMain}" />
 
+	<!-- Pharos pro -->
+	<item drawable="pharos" component="ComponentInfo{com.pharos.pro/com.orange.MainActivity}" />
+
 	<!-- ssr -->
 	<item drawable="ssr" component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" />
 
@@ -410,6 +419,9 @@
 
 	<!-- ClashA -->
 	<item drawable="clash_a" component="ComponentInfo{com.github.ccg.clasha/com.github.cgg.clasha.MainActivity}" />
+
+	<!-- Clash for Android -->
+	<item drawable="clash_a" component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" />
 
 
 	<!--___________________________游戏___________________________-->

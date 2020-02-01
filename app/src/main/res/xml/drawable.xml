@@ -50,7 +50,9 @@
     <item drawable="tim" />
     <item drawable="news" />
     <item drawable="reddit" />
+    <item drawable="weibo" />
     <item drawable="weibo_intl" />
+    <item drawable="weibo_share" />
     <item drawable="it_home" />
     <item drawable="xda_labs" />
     <item drawable="app_sales" />

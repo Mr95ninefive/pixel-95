@@ -163,8 +163,14 @@
     <!-- 今日头条 -->
     <item name="reddit" class="com.reddit.frontpage/com.reddit.frontpage.StartActivity"/>
 
+    <!-- 微博 -->
+    <item name="weibo" class="com.sina.weibo/com.sina.weibo.SplashActivity"/>
+
     <!-- 微博国际版 -->
     <item name="weibo_intl" class="com.weico.international/com.weico.international.activity.LogoActivity"/>
+
+    <!-- Share微博客户端 -->
+    <item name="weibo_share" class="com.hengye.share/com.hengye.share.Launcher"/>
 
     <!-- IT之家 -->
     <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
@@ -343,6 +349,9 @@
     <item name="pharos" class="com.github.pharos/com.github.pharos.WBMainActivity"/>
     <item name="pharos" class="com.pharospro.gugugu/com.pharospro.gugugu.GuguMain"/>
 
+    <!-- Pharos pro -->
+    <item name="pharos" class="com.pharos.pro/com.orange.MainActivity"/>
+
     <!-- ssr -->
     <item name="ssr" class="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"/>
 
@@ -357,6 +366,9 @@
 
     <!-- ClashA -->
     <item name="clash_a" class="com.github.ccg.clasha/com.github.cgg.clasha.MainActivity"/>
+
+    <!-- Clash for Android -->
+    <item name="clash_a" class="com.github.kr328.clash/com.github.kr328.clash.MainActivity"/>
 
 
     <!--___________________________游戏___________________________-->
