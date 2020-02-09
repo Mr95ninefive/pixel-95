@@ -47,12 +47,14 @@
     <item drawable="coolapk" />
     <item drawable="telegram_x" />
     <item drawable="wechat" />
+    <item drawable="wechat_work" />
     <item drawable="tim" />
     <item drawable="news" />
     <item drawable="reddit" />
     <item drawable="weibo" />
     <item drawable="weibo_intl" />
     <item drawable="weibo_share" />
+    <item drawable="weibo_see" />
     <item drawable="it_home" />
     <item drawable="xda_labs" />
     <item drawable="app_sales" />
@@ -109,6 +111,7 @@
     <item drawable="plus_message" />
     <item drawable="tong_xin_zai_xian_kindergarten" />
     <item drawable="tong_xin_zai_xian" />
+    <item drawable="blur_scale_wallpaper" />
 
     <category title="网络" />
     <item drawable="surfboard" />

@@ -151,6 +151,9 @@
     <!-- 微信 -->
     <item name="wechat" class="com.tencent.mm/com.tencent.mm.ui.LauncherUI"/>
 
+    <!-- 微信企业版 -->
+    <item name="wechat_work" class="com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity"/>
+
     <!-- TIM -->
     <item name="tim" class="com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity"/>
 
@@ -171,6 +174,9 @@
 
     <!-- Share微博客户端 -->
     <item name="weibo_share" class="com.hengye.share/com.hengye.share.Launcher"/>
+
+    <!-- See微博客户端 -->
+    <item name="weibo_see" class="com.caij.see/com.caij.see.ui.activity.SplashActivity"/>
 
     <!-- IT之家 -->
     <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
@@ -338,6 +344,9 @@
 
     <!-- 童心在线 -->
     <item name="tong_xin_zai_xian" class="com.tongxinwudong/com.tongxinwudong.MainActivity"/>
+
+    <!-- 动画壁纸 -->
+    <item name="blur_scale_wallpaper" class="com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity"/>
 
 
     <!--___________________________网络___________________________-->

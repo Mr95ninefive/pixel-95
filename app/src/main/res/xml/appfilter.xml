@@ -204,6 +204,9 @@
 	<!-- 微信 -->
 	<item drawable="wechat" component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" />
 
+	<!-- 微信企业版 -->
+	<item drawable="wechat_work" component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}" />
+
 	<!-- TIM -->
 	<item drawable="tim" component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" />
 
@@ -224,6 +227,9 @@
 
 	<!-- Share微博客户端 -->
 	<item drawable="weibo_share" component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" />
+
+	<!-- See微博客户端 -->
+	<item drawable="weibo_see" component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" />
 
 	<!-- IT之家 -->
 	<item drawable="it_home" component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" />
@@ -391,6 +397,9 @@
 
 	<!-- 童心在线 -->
 	<item drawable="tong_xin_zai_xian" component="ComponentInfo{com.tongxinwudong/com.tongxinwudong.MainActivity}" />
+
+	<!-- 动画壁纸 -->
+	<item drawable="blur_scale_wallpaper" component="ComponentInfo{com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity}" />
 
 
 	<!--___________________________网络___________________________-->
