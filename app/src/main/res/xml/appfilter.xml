@@ -84,11 +84,14 @@
 	<!-- 谷歌翻译 -->
 	<item drawable="google_translate" component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" />
 
-	<!-- Chrome Dev -->
-	<item drawable="chrome" component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" />
-
 	<!-- Chrome -->
 	<item drawable="chrome" component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" />
+
+	<!-- Chrome Beta -->
+	<item drawable="chrome" component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" />
+
+	<!-- Chrome Dev -->
+	<item drawable="chrome" component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" />
 
 	<!-- Play游戏 -->
 	<item drawable="google_play_games" component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" />
@@ -229,7 +232,7 @@
 	<item drawable="weibo_share" component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" />
 
 	<!-- See微博客户端 -->
-	<item drawable="weibo_see" component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" />
+	<item drawable="weibo_see" component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}" />
 
 	<!-- IT之家 -->
 	<item drawable="it_home" component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" />
@@ -245,7 +248,7 @@
 	<item drawable="da_sheng_jing_hua" component="ComponentInfo{com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide}" />
 
 	<!-- App Ops -->
-	<item drawable="app_ops" component="ComponentInfo{rikka.appops/rikka.appops.SplashActivity}" />
+	<item drawable="app_ops" component="ComponentInfo{rikka.appops/rikka.appops.home.HomeActivity}" />
 
 	<!-- 黑阈 -->
 	<item drawable="brevent" component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" />
@@ -372,7 +375,7 @@
 	<item drawable="instagram" component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" />
 
 	<!-- microsoft_office -->
-	<item drawable="microsoft_office" component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officemobile.OfficeMobileActivity}" />
+	<item drawable="microsoft_office" component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" />
 
 	<!-- huawei -->
 	<item drawable="huawei" component="ComponentInfo{com.huawei.hwid/*}" />
@@ -400,6 +403,21 @@
 
 	<!-- 动画壁纸 -->
 	<item drawable="blur_scale_wallpaper" component="ComponentInfo{com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity}" />
+
+	<!-- 个人所得税 -->
+	<item drawable="gov_tax" component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" />
+
+	<!-- Shizuku -->
+	<item drawable="shizuku" component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" />
+
+	<!-- 优酷 -->
+	<item drawable="youku" component="ComponentInfo{com.youku.phone/com.youku.phone.ActivityWelcome}" />
+
+	<!-- TapTap -->
+	<item drawable="taptap" component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" />
+
+	<!-- 锤子BigBang -->
+	<item drawable="bigbang" component="ComponentInfo{com.forfan.bigbang/com.forfan.bigbang.component.activity.SplashActivity}" />
 
 
 	<!--___________________________网络___________________________-->
@@ -461,6 +479,15 @@
 
 	<!-- 愤怒的小鸟 -->
 	<item drawable="angrybird_friends" component="ComponentInfo{com.rovio.angrybirdsfriends/com.rovio.fusion.App}" />
+
+	<!-- 最强蜗牛 -->
+	<item drawable="snail" component="ComponentInfo{com.qcplay.snail.android/org.cocos2dx.lua.AppActivity}" />
+
+	<!-- 汤姆猫总动员 -->
+	<item drawable="my_talking_tom_friends" component="ComponentInfo{com.outfit7.mytalkingtomfriends/com.outfit7.mytalkingtomfriends.MyTalkingTomFriendsNativeActivity}" />
+
+	<!-- 植物大战僵尸3 -->
+	<item drawable="pvz3" component="ComponentInfo{com.ea.gp.pvz3/com.ea.pvz3.YetiActivity}" />
 
 
 </resources>

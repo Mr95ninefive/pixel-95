@@ -14,7 +14,9 @@
     <item drawable="chrome" />
     <item drawable="google_play_games" />
     <item drawable="google_maps" />
+    <item drawable="google_maps_01" />
     <item drawable="google_photos" />
+    <item drawable="google_photos_01" />
     <item drawable="google_play_movies_and_tv" />
     <item drawable="google_play_music" />
     <item drawable="google_pay" />
@@ -60,6 +62,7 @@
     <item drawable="app_sales" />
     <item drawable="da_sheng_jing_hua" />
     <item drawable="app_ops" />
+    <item drawable="app_ops_01" />
     <item drawable="brevent" />
     <item drawable="netease_music" />
     <item drawable="ice_box" />
@@ -100,6 +103,7 @@
     <item drawable="light_start" />
     <item drawable="utility_toolbox" />
     <item drawable="redirect_storage" />
+    <item drawable="redirect_storage_01" />
     <item drawable="teambition" />
     <item drawable="instagram" />
     <item drawable="microsoft_office" />
@@ -112,6 +116,11 @@
     <item drawable="tong_xin_zai_xian_kindergarten" />
     <item drawable="tong_xin_zai_xian" />
     <item drawable="blur_scale_wallpaper" />
+    <item drawable="gov_tax" />
+    <item drawable="shizuku" />
+    <item drawable="youku" />
+    <item drawable="taptap" />
+    <item drawable="bigbang" />
 
     <category title="网络" />
     <item drawable="surfboard" />
@@ -131,5 +140,7 @@
     <item drawable="reigns" />
     <item drawable="reigns_her_majesty" />
     <item drawable="angrybird_friends" />
+    <item drawable="snail" />
+    <item drawable="my_talking_tom_friends" />
 
 </resources>

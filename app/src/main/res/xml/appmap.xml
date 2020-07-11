@@ -32,11 +32,14 @@
     <!-- 谷歌翻译 -->
     <item name="google_translate" class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"/>
 
-    <!-- Chrome Dev -->
-    <item name="chrome" class="com.chrome.dev/com.google.android.apps.chrome.Main"/>
-
     <!-- Chrome -->
     <item name="chrome" class="com.android.chrome/com.google.android.apps.chrome.Main"/>
+
+    <!-- Chrome Beta -->
+    <item name="chrome" class="com.chrome.beta/com.google.android.apps.chrome.Main"/>
+
+    <!-- Chrome Dev -->
+    <item name="chrome" class="com.chrome.dev/com.google.android.apps.chrome.Main"/>
 
     <!-- Play游戏 -->
     <item name="google_play_games" class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"/>
@@ -176,7 +179,7 @@
     <item name="weibo_share" class="com.hengye.share/com.hengye.share.Launcher"/>
 
     <!-- See微博客户端 -->
-    <item name="weibo_see" class="com.caij.see/com.caij.see.ui.activity.SplashActivity"/>
+    <item name="weibo_see" class="com.caij.see/com.caij.see.ui.activity.home.MainContainActivity"/>
 
     <!-- IT之家 -->
     <item name="it_home" class="com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1"/>
@@ -192,7 +195,7 @@
     <item name="da_sheng_jing_hua" class="com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide"/>
 
     <!-- App Ops -->
-    <item name="app_ops" class="rikka.appops/rikka.appops.SplashActivity"/>
+    <item name="app_ops" class="rikka.appops/rikka.appops.home.HomeActivity"/>
 
     <!-- 黑阈 -->
     <item name="brevent" class="me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity"/>
@@ -319,7 +322,7 @@
     <item name="instagram" class="com.instagram.android/com.instagram.android.activity.MainTabActivity"/>
 
     <!-- microsoft_office -->
-    <item name="microsoft_office" class="com.microsoft.office.officehubrow/com.microsoft.office.officemobile.OfficeMobileActivity"/>
+    <item name="microsoft_office" class="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity"/>
 
     <!-- huawei -->
     <item name="huawei" class="com.huawei.hwid/*"/>
@@ -347,6 +350,21 @@
 
     <!-- 动画壁纸 -->
     <item name="blur_scale_wallpaper" class="com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity"/>
+
+    <!-- 个人所得税 -->
+    <item name="gov_tax" class="cn.gov.tax.its/cn.gov.tax.its.MainActivity"/>
+
+    <!-- Shizuku -->
+    <item name="shizuku" class="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity"/>
+
+    <!-- 优酷 -->
+    <item name="youku" class="com.youku.phone/com.youku.phone.ActivityWelcome"/>
+
+    <!-- TapTap -->
+    <item name="taptap" class="com.taptap/com.play.taptap.ui.SplashAct"/>
+
+    <!-- 锤子BigBang -->
+    <item name="bigbang" class="com.forfan.bigbang/com.forfan.bigbang.component.activity.SplashActivity"/>
 
 
     <!--___________________________网络___________________________-->
@@ -408,5 +426,14 @@
 
     <!-- 愤怒的小鸟 -->
     <item name="angrybird_friends" class="com.rovio.angrybirdsfriends/com.rovio.fusion.App"/>
+
+    <!-- 最强蜗牛 -->
+    <item name="snail" class="com.qcplay.snail.android/org.cocos2dx.lua.AppActivity"/>
+
+    <!-- 汤姆猫总动员 -->
+    <item name="my_talking_tom_friends" class="com.outfit7.mytalkingtomfriends/com.outfit7.mytalkingtomfriends.MyTalkingTomFriendsNativeActivity"/>
+
+    <!-- 植物大战僵尸3 -->
+    <item name="pvz3" class="com.ea.gp.pvz3/com.ea.pvz3.YetiActivity"/>
 
 </appmap>
