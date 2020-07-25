@@ -489,5 +489,29 @@
 	<!-- 植物大战僵尸3 -->
 	<item drawable="pvz3" component="ComponentInfo{com.ea.gp.pvz3/com.ea.pvz3.YetiActivity}" />
 
+	<!-- 辐射:避难所 -->
+	<item drawable="fallout_shelter" component="ComponentInfo{com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning}" />
+
+	<!-- 逐光:启航 -->
+	<item drawable="zhu_guang_qi_hang" component="ComponentInfo{com.thesmartmelon.sc16.cn/com.unity3d.player.UnityPlayerActivity}" />
+
+	<!-- 纪念碑谷2 -->
+	<item drawable="monument_valley_2" component="ComponentInfo{com.ustwo.monumentvalley2/com.ustwo.androidplugins.MainActivity}" />
+
+	<!-- Hitman GO -->
+	<item drawable="hitman_go" component="ComponentInfo{com.squareenixmontreal.hitmango/com.squareenixmontreal.armory.ArmoryActivity}" />
+
+	<!-- Lara Croft GO -->
+	<item drawable="lara_croft_go" component="ComponentInfo{com.squareenixmontreal.lcgo/com.squareenixmontreal.armory.ArmoryActivity}" />
+
+	<!-- Prune -->
+	<item drawable="prune" component="ComponentInfo{com.Polyculture.Prune/com.unity3d.player.UnityPlayerActivity}" />
+
+	<!-- SPACEPLAN -->
+	<item drawable="spaceplan" component="ComponentInfo{com.devolver.spaceplan/com.unity3d.player.UnityPlayerActivity}" />
+
+	<!-- Abi -->
+	<item drawable="abi" component="ComponentInfo{com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity}" />
+
 
 </resources>

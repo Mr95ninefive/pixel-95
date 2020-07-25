@@ -436,4 +436,28 @@
     <!-- 植物大战僵尸3 -->
     <item name="pvz3" class="com.ea.gp.pvz3/com.ea.pvz3.YetiActivity"/>
 
+    <!-- 辐射:避难所 -->
+    <item name="fallout_shelter" class="com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning"/>
+
+    <!-- 逐光:启航 -->
+    <item name="zhu_guang_qi_hang" class="com.thesmartmelon.sc16.cn/com.unity3d.player.UnityPlayerActivity"/>
+
+    <!-- 纪念碑谷2 -->
+    <item name="monument_valley_2" class="com.ustwo.monumentvalley2/com.ustwo.androidplugins.MainActivity"/>
+
+    <!-- Hitman GO -->
+    <item name="hitman_go" class="com.squareenixmontreal.hitmango/com.squareenixmontreal.armory.ArmoryActivity"/>
+
+    <!-- Lara Croft GO -->
+    <item name="lara_croft_go" class="com.squareenixmontreal.lcgo/com.squareenixmontreal.armory.ArmoryActivity"/>
+
+    <!-- Prune -->
+    <item name="prune" class="com.Polyculture.Prune/com.unity3d.player.UnityPlayerActivity"/>
+
+    <!-- SPACEPLAN -->
+    <item name="spaceplan" class="com.devolver.spaceplan/com.unity3d.player.UnityPlayerActivity"/>
+
+    <!-- Abi -->
+    <item name="abi" class="com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity"/>
+
 </appmap>
