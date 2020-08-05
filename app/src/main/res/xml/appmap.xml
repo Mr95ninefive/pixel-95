@@ -460,4 +460,10 @@
     <!-- Abi -->
     <item name="abi" class="com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity"/>
 
+    <!-- Egg, Inc. -->
+    <item name="egg_inc" class="com.auxbrain.egginc/com.auxbrain.egginc.EggIncActivity"/>
+
+    <!-- 企鹅岛 -->
+    <item name="penguinisle" class="com.fantome.penguinisle/com.google.firebase.MessagingUnityPlayerActivity"/>
+
 </appmap>

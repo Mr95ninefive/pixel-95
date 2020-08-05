@@ -150,5 +150,7 @@
     <item drawable="prune" />
     <item drawable="spaceplan" />
     <item drawable="abi" />
+    <item drawable="egg_inc" />
+    <item drawable="penguinisle" />
 
 </resources>

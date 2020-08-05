@@ -513,5 +513,10 @@
 	<!-- Abi -->
 	<item drawable="abi" component="ComponentInfo{com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity}" />
 
+	<!-- Egg, Inc. -->
+	<item drawable="egg_inc" component="ComponentInfo{com.auxbrain.egginc/com.auxbrain.egginc.EggIncActivity}" />
+
+	<!-- 企鹅岛 -->
+	<item drawable="penguinisle" component="ComponentInfo{com.fantome.penguinisle/com.google.firebase.MessagingUnityPlayerActivity}" />
 
 </resources>
