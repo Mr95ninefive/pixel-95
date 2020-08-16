@@ -466,4 +466,13 @@
     <!-- 企鹅岛 -->
     <item name="penguinisle" class="com.fantome.penguinisle/com.google.firebase.MessagingUnityPlayerActivity"/>
 
+    <!-- 我叫钓鱼侠 -->
+    <item name="hooked_inc" class="se.ace.fishinc/com.google.firebase.MessagingUnityPlayerActivity"/>
+
+    <!-- 剑与远征 -->
+    <item name="afk_arena" class="com.lilithgame.hgame.gp/sh.lilithgame.hgame.AppActivity"/>
+
+    <!-- 元气骑士 -->
+    <item name="soul_knight" class="com.ChillyRoom.DungeonShooter/com.unity3d.player.UnityPlayerActivity"/>
+
 </appmap>

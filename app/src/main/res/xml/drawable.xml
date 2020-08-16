@@ -152,5 +152,8 @@
     <item drawable="abi" />
     <item drawable="egg_inc" />
     <item drawable="penguinisle" />
+    <item drawable="hooked_inc" />
+    <item drawable="afk_arena" />
+    <item drawable="soul_knight" />
 
 </resources>
