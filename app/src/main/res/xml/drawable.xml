@@ -121,6 +121,7 @@
     <item drawable="youku" />
     <item drawable="taptap" />
     <item drawable="bigbang" />
+    <item drawable="line" />
 
     <category title="网络" />
     <item drawable="surfboard" />

@@ -366,6 +366,9 @@
     <!-- 锤子BigBang -->
     <item name="bigbang" class="com.forfan.bigbang/com.forfan.bigbang.component.activity.SplashActivity"/>
 
+    <!-- LINE -->
+    <item name="line" class="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"/>
+
 
     <!--___________________________网络___________________________-->
 

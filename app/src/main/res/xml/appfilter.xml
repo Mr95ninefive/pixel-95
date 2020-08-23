@@ -419,6 +419,9 @@
 	<!-- 锤子BigBang -->
 	<item drawable="bigbang" component="ComponentInfo{com.forfan.bigbang/com.forfan.bigbang.component.activity.SplashActivity}" />
 
+	<!-- LINE -->
+	<item drawable="line" component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 
