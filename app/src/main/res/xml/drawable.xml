@@ -28,6 +28,7 @@
     <item drawable="oneplus_notes" />
     <item drawable="oneplus_switch" />
     <item drawable="oneplus_screenrecord" />
+    <item drawable="oneplus_screenrecord_01" />
 
     <category title="系统" />
     <item drawable="settings" />
@@ -59,11 +60,13 @@
     <item drawable="weibo_see" />
     <item drawable="it_home" />
     <item drawable="xda_labs" />
+    <item drawable="xda_labs_01" />
     <item drawable="app_sales" />
     <item drawable="da_sheng_jing_hua" />
     <item drawable="app_ops" />
     <item drawable="app_ops_01" />
     <item drawable="brevent" />
+    <item drawable="brevent_01" />
     <item drawable="netease_music" />
     <item drawable="ice_box" />
     <item drawable="floating_menu" />
@@ -96,6 +99,7 @@
     <item drawable="microsoft_remote_desktop" />
     <item drawable="wood_box" />
     <item drawable="netflix" />
+    <item drawable="netflix_01" />
     <item drawable="my_nanjing" />
     <item drawable="substratum" />
     <item drawable="substratum_lite" />
@@ -121,10 +125,18 @@
     <item drawable="youku" />
     <item drawable="taptap" />
     <item drawable="bigbang" />
+    <item drawable="bigbang_01" />
     <item drawable="line" />
+    <item drawable="tick_tick" />
+    <item drawable="zhi_hu" />
+    <item drawable="developer_daily" />
+    <item drawable="v2ex" />
+    <item drawable="bb_news" />
+    <item drawable="bb_news_01" />
 
     <category title="网络" />
     <item drawable="surfboard" />
+    <item drawable="surfboard_01" />
     <item drawable="pharos" />
     <item drawable="ssr" />
     <item drawable="ssrb" />

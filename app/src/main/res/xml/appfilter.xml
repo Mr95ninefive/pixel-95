@@ -422,6 +422,21 @@
 	<!-- LINE -->
 	<item drawable="line" component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" />
 
+	<!-- 滴答清单 -->
+	<item drawable="tick_tick" component="ComponentInfo{com.ticktick.task/com.ticktick.task.activity.MeTaskActivity}" />
+
+	<!-- 知乎 -->
+	<item drawable="zhi_hu" component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" />
+
+	<!-- 开发者头条 -->
+	<item drawable="developer_daily" component="ComponentInfo{io.manong.developerdaily/io.toutiao.android.ui.activity.LaunchActivity}" />
+
+	<!-- V2EX -->
+	<item drawable="v2ex" component="ComponentInfo{me.ghui.v2er/me.ghui.v2er.module.general.RouteActivity}" />
+
+	<!-- 哔哔资讯 -->
+	<item drawable="bb_news" component="ComponentInfo{app.bbnews.jy/app.bbnews.jy.MainActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 

@@ -369,6 +369,21 @@
     <!-- LINE -->
     <item name="line" class="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"/>
 
+    <!-- 滴答清单 -->
+    <item name="tick_tick" class="com.ticktick.task/com.ticktick.task.activity.MeTaskActivity"/>
+
+    <!-- 知乎 -->
+    <item name="zhi_hu" class="com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity"/>
+
+    <!-- 开发者头条 -->
+    <item name="developer_daily" class="io.manong.developerdaily/io.toutiao.android.ui.activity.LaunchActivity"/>
+
+    <!-- V2EX -->
+    <item name="v2ex" class="me.ghui.v2er/me.ghui.v2er.module.general.RouteActivity"/>
+
+    <!-- 哔哔资讯 -->
+    <item name="bb_news" class="app.bbnews.jy/app.bbnews.jy.MainActivity"/>
+
 
     <!--___________________________网络___________________________-->
 
