@@ -437,6 +437,9 @@
 	<!-- 哔哔资讯 -->
 	<item drawable="bb_news" component="ComponentInfo{app.bbnews.jy/app.bbnews.jy.MainActivity}" />
 
+	<!-- 百度贴吧 -->
+	<item drawable="baidu_tieba" component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 

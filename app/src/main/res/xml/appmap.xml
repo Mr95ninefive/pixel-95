@@ -384,6 +384,9 @@
     <!-- 哔哔资讯 -->
     <item name="bb_news" class="app.bbnews.jy/app.bbnews.jy.MainActivity"/>
 
+    <!-- 百度贴吧 -->
+    <item name="baidu_tieba" class="com.baidu.tieba/com.baidu.tieba.LogoActivity"/>
+
 
     <!--___________________________网络___________________________-->
 

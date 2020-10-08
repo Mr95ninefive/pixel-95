@@ -133,6 +133,7 @@
     <item drawable="v2ex" />
     <item drawable="bb_news" />
     <item drawable="bb_news_01" />
+    <item drawable="baidu_tieba" />
 
     <category title="网络" />
     <item drawable="surfboard" />
