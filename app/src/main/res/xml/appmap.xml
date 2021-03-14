@@ -65,7 +65,7 @@
     <!--___________________________一加___________________________-->
 
     <!-- 一加电话 -->
-    <item name="phone" class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"/>
+    <item name="phone" class="com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity"/>
 
     <!-- 一加短信 -->
     <item name="message" class="com.oneplus.mms/com.android.mms.ui.ConversationList"/>
@@ -112,6 +112,21 @@
     <!-- 一加屏幕录像 -->
     <item name="oneplus_screenrecord" class="com.oneplus.screenrecord/*"/>
 
+    <!-- 一加桌面 -->
+    <item name="oneplus_launcher" class="net.oneplus.launcher/*"/>
+
+    <!-- 一加小部件 -->
+    <item name="oneplus_widget" class="net.oneplus.widget/*"/>
+
+    <!-- 一加Buds -->
+    <item name="oneplus_buds" class="com.oneplus.twspods/*"/>
+
+    <!-- 绘影 -->
+    <item name="oneplus_canvas_resources" class="com.oneplus.canvasresources/*"/>
+
+    <!-- Shot on OnePlus -->
+    <item name="shot_on_oneplus" class="cn.oneplus.photos/*"/>
+
 
     <!--___________________________系统___________________________-->
 
@@ -122,7 +137,7 @@
     <item name="settings" class="com.android.settings/com.android.settings.Settings"/>
 
     <!-- magisk -->
-    <item name="magisk" class="com.topjohnwu.magisk/a.c"/>
+    <item name="magisk" class="com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity"/>
 
     <!-- 文件 -->
     <item name="files" class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"/>
@@ -132,6 +147,9 @@
 
     <!-- 数字健康 -->
     <item name="digital_wellbeing" class="com.google.android.apps.wellbeing/*"/>
+
+    <!-- 内容下载管理器 -->
+    <item name="providers_downloads" class="com.android.providers.downloads/*"/>
 
 
     <!--___________________________应用___________________________-->
@@ -167,7 +185,7 @@
     <item name="news" class="com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity"/>
 
     <!-- 今日头条 -->
-    <item name="reddit" class="com.reddit.frontpage/com.reddit.frontpage.StartActivity"/>
+    <item name="reddit" class="com.reddit.frontpage/launcher.default"/>
 
     <!-- 微博 -->
     <item name="weibo" class="com.sina.weibo/com.sina.weibo.SplashActivity"/>
@@ -334,7 +352,7 @@
     <item name="cc_call_blocker_n" class="zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView"/>
 
     <!-- xbox -->
-    <item name="xbox" class="com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity"/>
+    <item name="xbox" class="com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity"/>
 
     <!-- 中国银行 -->
     <item name="bank_of_china" class="com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"/>
@@ -387,6 +405,18 @@
     <!-- 百度贴吧 -->
     <item name="baidu_tieba" class="com.baidu.tieba/com.baidu.tieba.LogoActivity"/>
 
+    <!-- 阿里云盘 -->
+    <item name="alicloud" class="com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity"/>
+
+    <!-- 哔哩哔哩 -->
+    <item name="bilibili" class="tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity"/>
+
+    <!-- QQ音乐 -->
+    <item name="qq_music" class="com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity"/>
+
+    <!-- CCleaner -->
+    <item name="ccleaner" class="com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity"/>
+
 
     <!--___________________________网络___________________________-->
 
@@ -417,6 +447,9 @@
 
     <!-- Clash for Android -->
     <item name="clash_a" class="com.github.kr328.clash/com.github.kr328.clash.MainActivity"/>
+
+    <!-- 老王VPN -->
+    <item name="wang_vpn" class="com.sticktoit/com.sticktoit.activity.MainActivity"/>
 
 
     <!--___________________________游戏___________________________-->

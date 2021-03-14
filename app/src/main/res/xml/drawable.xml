@@ -29,6 +29,11 @@
     <item drawable="oneplus_switch" />
     <item drawable="oneplus_screenrecord" />
     <item drawable="oneplus_screenrecord_01" />
+    <item drawable="oneplus_launcher" />
+    <item drawable="oneplus_widget" />
+    <item drawable="oneplus_buds" />
+    <item drawable="oneplus_canvas_resources" />
+    <item drawable="shot_on_oneplus" />
 
     <category title="系统" />
     <item drawable="settings" />
@@ -40,6 +45,7 @@
     <item drawable="camera" />
     <item drawable="sim_toolkit" />
     <item drawable="digital_wellbeing" />
+    <item drawable="providers_downloads" />
 
     <category title="应用" />
     <item drawable="pixel_95" />
@@ -133,7 +139,10 @@
     <item drawable="v2ex" />
     <item drawable="bb_news" />
     <item drawable="bb_news_01" />
-    <item drawable="baidu_tieba" />
+    <item drawable="alicloud" />
+    <item drawable="bilibili" />
+    <item drawable="qq_music" />
+    <item drawable="ccleaner" />
 
     <category title="网络" />
     <item drawable="surfboard" />
@@ -143,6 +152,7 @@
     <item drawable="ssrb" />
     <item drawable="maying" />
     <item drawable="clash_a" />
+    <item drawable="wang_vpn" />
 
     <category title="游戏" />
     <item drawable="minecraft" />

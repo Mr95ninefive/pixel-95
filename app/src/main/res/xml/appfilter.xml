@@ -118,7 +118,7 @@
 	<!--___________________________一加___________________________-->
 
 	<!-- 一加电话 -->
-	<item drawable="phone" component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" />
+	<item drawable="phone" component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" />
 
 	<!-- 一加短信 -->
 	<item drawable="message" component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" />
@@ -165,6 +165,21 @@
 	<!-- 一加屏幕录像 -->
 	<item drawable="oneplus_screenrecord" component="ComponentInfo{com.oneplus.screenrecord/*}" />
 
+	<!-- 一加桌面 -->
+	<item drawable="oneplus_launcher" component="ComponentInfo{net.oneplus.launcher/*}" />
+
+	<!-- 一加小部件 -->
+	<item drawable="oneplus_widget" component="ComponentInfo{net.oneplus.widget/*}" />
+
+	<!-- 一加Buds -->
+	<item drawable="oneplus_buds" component="ComponentInfo{com.oneplus.twspods/*}" />
+
+	<!-- 绘影 -->
+	<item drawable="oneplus_canvas_resources" component="ComponentInfo{com.oneplus.canvasresources/*}" />
+
+	<!-- Shot on OnePlus -->
+	<item drawable="shot_on_oneplus" component="ComponentInfo{cn.oneplus.photos/*}" />
+
 
 	<!--___________________________系统___________________________-->
 
@@ -172,7 +187,7 @@
 	<item drawable="settings" component="ComponentInfo{com.android.settings/com.android.settings.Settings}" />
 
 	<!-- magisk -->
-	<item drawable="magisk" component="ComponentInfo{com.topjohnwu.magisk/a.c}" />
+	<item drawable="magisk" component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" />
 
 	<!-- 文件 -->
 	<item drawable="files" component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" />
@@ -182,6 +197,9 @@
 
 	<!-- 数字健康 -->
 	<item drawable="digital_wellbeing" component="ComponentInfo{com.google.android.apps.wellbeing/*}" />
+
+	<!-- 内容下载管理器 -->
+	<item drawable="providers_downloads" component="ComponentInfo{com.android.providers.downloads/*}" />
 
 
 	<!--___________________________应用___________________________-->
@@ -220,7 +238,7 @@
 	<item drawable="news" component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}" />
 
 	<!-- reddit -->
-	<item drawable="reddit" component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" />
+	<item drawable="reddit" component="ComponentInfo{com.reddit.frontpage/launcher.default}" />
 
 	<!-- 微博 -->
 	<item drawable="weibo" component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" />
@@ -387,7 +405,7 @@
 	<item drawable="cc_call_blocker_n" component="ComponentInfo{zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView}" />
 
 	<!-- xbox -->
-	<item drawable="xbox" component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" />
+	<item drawable="xbox" component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity}" />
 
 	<!-- 中国银行 -->
 	<item drawable="bank_of_china" component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" />
@@ -440,6 +458,18 @@
 	<!-- 百度贴吧 -->
 	<item drawable="baidu_tieba" component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" />
 
+	<!-- 阿里云盘 -->
+	<item drawable="alicloud" component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}" />
+
+	<!-- 哔哩哔哩 -->
+	<item drawable="bilibili" component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" />
+
+	<!-- QQ音乐 -->
+	<item drawable="qq_music" component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}" />
+
+	<!-- CCleaner -->
+	<item drawable="ccleaner" component="ComponentInfo{com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 
@@ -470,6 +500,9 @@
 
 	<!-- Clash for Android -->
 	<item drawable="clash_a" component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" />
+
+	<!-- 老王VPN -->
+	<item drawable="wang_vpn" component="ComponentInfo{com.sticktoit/com.sticktoit.activity.MainActivity}" />
 
 
 	<!--___________________________游戏___________________________-->
