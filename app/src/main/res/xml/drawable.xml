@@ -68,7 +68,7 @@
     <item drawable="xda_labs" />
     <item drawable="xda_labs_01" />
     <item drawable="app_sales" />
-    <item drawable="da_sheng_jing_hua" />
+<!--    <item drawable="da_sheng_jing_hua" />-->
     <item drawable="app_ops" />
     <item drawable="app_ops_01" />
     <item drawable="brevent" />
@@ -123,9 +123,9 @@
     <item drawable="xbox" />
     <item drawable="bank_of_china" />
     <item drawable="plus_message" />
-    <item drawable="tong_xin_zai_xian_kindergarten" />
-    <item drawable="tong_xin_zai_xian" />
-    <item drawable="blur_scale_wallpaper" />
+<!--    <item drawable="tong_xin_zai_xian_kindergarten" />-->
+<!--    <item drawable="tong_xin_zai_xian" />-->
+<!--    <item drawable="blur_scale_wallpaper" />-->
     <item drawable="gov_tax" />
     <item drawable="shizuku" />
     <item drawable="youku" />
@@ -143,6 +143,7 @@
     <item drawable="bilibili" />
     <item drawable="qq_music" />
     <item drawable="ccleaner" />
+    <item drawable="termux" />
 
     <category title="网络" />
     <item drawable="surfboard" />

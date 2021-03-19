@@ -470,6 +470,9 @@
 	<!-- CCleaner -->
 	<item drawable="ccleaner" component="ComponentInfo{com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity}" />
 
+	<!-- Termux -->
+	<item drawable="termux" component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 
