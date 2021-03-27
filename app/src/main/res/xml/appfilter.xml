@@ -473,6 +473,15 @@
 	<!-- Termux -->
 	<item drawable="termux" component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" />
 
+	<!-- XDA Developers -->
+	<item drawable="xda_developers" component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}" />
+
+
+	<!--___________________________Mr_95___________________________-->
+
+	<!-- 我的Clash订阅器 -->
+	<item drawable="mr95_my_clash_subscriber" component="ComponentInfo{mr95.personal.myclashsubscriber/mr95.personal.myclashsubscriber.MainActivity}" />
+
 
 	<!--___________________________网络___________________________-->
 

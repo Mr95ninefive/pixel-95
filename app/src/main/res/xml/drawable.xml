@@ -7,8 +7,10 @@
     <item drawable="google_go" />
     <item drawable="google_play_store" />
     <item drawable="google_gmail" />
+    <item drawable="google_gmail_01" />
     <item drawable="google_youtube" />
     <item drawable="google_drive" />
+    <item drawable="google_drive_01" />
     <item drawable="google_calendar" />
     <item drawable="google_translate" />
     <item drawable="chrome" />
@@ -144,6 +146,10 @@
     <item drawable="qq_music" />
     <item drawable="ccleaner" />
     <item drawable="termux" />
+    <item drawable="xda_developers" />
+
+    <category title="Mr_95" />
+    <item drawable="mr95_my_clash_subscriber" />
 
     <category title="网络" />
     <item drawable="surfboard" />
