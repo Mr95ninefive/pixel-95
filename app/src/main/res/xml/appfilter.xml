@@ -102,8 +102,8 @@
 	<!-- 谷歌相册 -->
 	<item drawable="google_photos" component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" />
 
-	<!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google Play Movies & TV‌‌‌‌‌‎ -->
-	<item drawable="google_play_movies_and_tv" component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" />
+	<!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google TV‌‌‌‌‌‎ -->
+	<item drawable="google_tv" component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" />
 
 	<!-- Google Play Music‌‌‌‌‌‎ -->
 	<item drawable="google_play_music" component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" />

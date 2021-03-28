@@ -50,8 +50,8 @@
     <!-- 谷歌相册 -->
     <item name="google_photos" class="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"/>
 
-    <!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google Play Movies & TV‌‌‌‌‌‎ -->
-    <item name="google_play_movies_and_tv" class="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"/>
+    <!-- ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎Google TV‌‌‌‌‌‎ -->
+    <item name="google_tv" class="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"/>
 
     <!-- Google Play Music‌‌‌‌‌‎ -->
     <item name="google_play_music" class="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"/>

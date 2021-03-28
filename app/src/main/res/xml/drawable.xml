@@ -12,6 +12,7 @@
     <item drawable="google_drive" />
     <item drawable="google_drive_01" />
     <item drawable="google_calendar" />
+    <item drawable="google_calendar_01" />
     <item drawable="google_translate" />
     <item drawable="chrome" />
     <item drawable="google_play_games" />
@@ -19,7 +20,7 @@
     <item drawable="google_maps_01" />
     <item drawable="google_photos" />
     <item drawable="google_photos_01" />
-    <item drawable="google_play_movies_and_tv" />
+    <item drawable="google_tv" />
     <item drawable="google_play_music" />
     <item drawable="google_pay" />
     <item drawable="google_duo" />
@@ -141,6 +142,7 @@
     <item drawable="v2ex" />
     <item drawable="bb_news" />
     <item drawable="bb_news_01" />
+    <item drawable="baidu_tieba" />
     <item drawable="alicloud" />
     <item drawable="bilibili" />
     <item drawable="qq_music" />
